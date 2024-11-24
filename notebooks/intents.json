@@ -1,0 +1,79 @@
+{
+    "intents": [
+      {
+        "intent": "greeting",
+        "examples": [
+          "Hello",
+          "Hi",
+          "Hey",
+          "Good morning",
+          "Good evening",
+          "Howdy"
+        ],
+        "responses": [
+          "Hello! How can I assist you today?",
+          "Hi there! What can I help you with?",
+          "Hey! How's it going?"
+        ]
+      },
+      {
+        "intent": "goodbye",
+        "examples": [
+          "Goodbye",
+          "Bye",
+          "See you later",
+          "Take care",
+          "See ya"
+        ],
+        "responses": [
+          "Goodbye! Have a great day!",
+          "See you later!",
+          "Take care, and feel free to reach out anytime!"
+        ]
+      },
+      {
+        "intent": "ask_help",
+        "examples": [
+          "Can you help me?",
+          "I need assistance",
+          "Help me",
+          "What can you do?",
+          "How do I use this?"
+        ],
+        "responses": [
+          "Sure! How can I assist you today?",
+          "I'm here to help! What do you need assistance with?",
+          "What do you need help with? I'm happy to assist."
+        ]
+      },
+      {
+        "intent": "small_talk",
+        "examples": [
+          "How are you?",
+          "What's up?",
+          "How's it going?",
+          "What's new?"
+        ],
+        "responses": [
+          "I'm just a chatbot, but I'm doing well, thanks for asking!",
+          "I'm doing great, how about you?",
+          "Everything's running smoothly on my end, how are you doing?"
+        ]
+      },
+      {
+        "intent": "unknown",
+        "examples": [
+          "What do you mean?",
+          "I don't understand",
+          "Can you explain that?",
+          "Sorry, I didn't get that"
+        ],
+        "responses": [
+          "Sorry, I didn't quite understand. Could you rephrase that?",
+          "I'm not sure I follow. Could you explain that again?",
+          "I didn't get that. Could you clarify?"
+        ]
+      }
+    ]
+  }
+  
