@@ -119,30 +119,30 @@ Following this go to the link
 ![StudentDesk Architecture](https://github.com/amilbek/chatbot/blob/main/diagrams/StudentDesk%20Architecture.png?raw=true)
 
 ## Technologies Used
-* **spaCy (de_core_news_lg)**: Named Entity Recognition (NER)
+* [**spaCy (de_core_news_lg)**](#https://spacy.io/models/de#de_core_news_lg): Named Entity Recognition (NER)
 * **TensorFlow (Bidirectional LSTM)**: Intent classification
 * **sqlite3**: Database management
 * **Flask API**: API integration
 
 ## Data
 The chatbot uses three datasets:
-* **tokens.csv**: Training data for NER, containing text and labeled entities.
-* **test_tokens.csv**: Testing data for NER.
-* **chatbot_dataset.csv**: Training data for intent classification.
-* **rule_based_intents.json**: Predefined intents for rule-based responses.
+* [**tokens.csv**](#https://github.com/amilbek/chatbot/blob/main/data/raw/tokens.csv): Training data for NER, containing text and labeled entities.
+* [**test_tokens.csv**](https://github.com/amilbek/chatbot/blob/main/data/raw/test_tokens.csv): Testing data for NER.
+* [**chatbot_dataset.csv**](#https://github.com/amilbek/chatbot/blob/main/data/raw/chatbot_dataset.csv): Training data for intent classification.
+* [**rule_based_intents.json**](#https://github.com/amilbek/chatbot/blob/main/data/raw/rule_based_intents.json): Predefined intents for rule-based responses.
 
 ## Models
 The models are stored in **[amilbek/univerisy-chatbot](https://huggingface.co/amilbek/univerisy-chatbot/tree/main)**
 
-* **custom_ner_model** - trained NER model to define entities
-* **intetn_lstm_model.keras** - trained Intent Classifier Model
-* **label_encoder.pkl** - Intent encoder
-* **tokenizer.pkl** - Text tokenizer
+* [**custom_ner_model**](#https://huggingface.co/amilbek/univerisy-chatbot/tree/main/custom_ner_model) - trained NER model to define entities
+* [**intetn_lstm_model.keras**](#https://huggingface.co/amilbek/univerisy-chatbot/blob/main/intent_lstm_model.keras) - trained Intent Classifier Model
+* [**label_encoder.pkl**](#https://huggingface.co/amilbek/univerisy-chatbot/blob/main/label_encoder.pkl) - Intent encoder
+* [**tokenizer.pkl**](#https://huggingface.co/amilbek/univerisy-chatbot/blob/main/tokenizer.pkl) - Text tokenizer
 
 ## Database
 To get the completed database, run a cell in **notebooks/database.ipynb**
 
-* **shared_database.db** contains the database of the chatbot (users, courses, exams, exam grades).
+* [**shared_database.db**](#https://github.com/amilbek/chatbot/blob/main/notebooks/database.ipynb) contains the database of the chatbot (users, courses, exams, exam grades).
 
 ## Efficiency Metrics
 
