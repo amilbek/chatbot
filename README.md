@@ -6,7 +6,7 @@ StudentDesk is a virtual assistant designed to support students with common univ
 1. [Project Structure](#project-structure)
 
    
-## Project Structure[project-structure]
+## Project Structure
 The project structure is as follows:
 ```
 Chatbot/
