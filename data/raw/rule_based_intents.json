@@ -1,0 +1,182 @@
+{
+    "greeting": {
+        "patterns": [
+            "hello",
+            "hi",
+            "good morning",
+            "good afternoon",
+            "hey",
+            "greetings"
+        ],
+        "responses": [
+            "Hello! How can I assist you today?",
+            "Hi there! What can I do for you?"
+        ]
+    },
+    "farewell": {
+        "patterns": [
+            "bye",
+            "goodbye",
+            "see you",
+            "take care",
+            "farewell"
+        ],
+        "responses": [
+            "Goodbye! Have a great day!",
+            "See you later! Take care!"
+        ]
+    },
+    "thanksgiving": {
+        "patterns": [
+            "thank you",
+            "thanks",
+            "appreciate it",
+            "grateful"
+        ],
+        "responses": [
+            "You're welcome!",
+            "Glad I could help!"
+        ]
+    },
+    "chatbot_identity": {
+        "patterns": [
+            "who are you",
+            "what are you",
+            "tell me about yourself",
+            "what is this",
+            "who am I talking to",
+            "what's your name"
+        ],
+        "responses": [
+            "I am StudentDesk, your university chatbot. I'm here to assist you with any queries.",
+            "I'm StudentDesk, your virtual assistant for university-related tasks."
+        ]
+    },
+    "chatbot_creation": {
+        "patterns": [
+            "who created you",
+            "who made you",
+            "who developed you",
+            "who built you",
+            "what's your origin"
+        ],
+        "responses": [
+            "I was created by the university's development team to assist students like you.",
+            "The university's IT team developed me to help answer your questions and simplify student services."
+        ]
+    },
+    "chatbot_creation_date": {
+        "patterns": [
+            "when were you created",
+            "how old are you",
+            "when did you start",
+            "how long have you been here"
+        ],
+        "responses": [
+            "I was created in 2024 to help make student life easier.",
+            "I came into existence in 2024, and I've been assisting students ever since."
+        ]
+    },
+    "chatbot_capabilities": {
+        "patterns": [
+            "what can you do",
+            "what are your abilities",
+            "how can you help me",
+            "what is your purpose",
+            "what do you do",
+            "what services do you provide"
+        ],
+        "responses": [
+            "I can help you with exam registrations, check your exam status, grades, schedules, and more.",
+            "I assist with university-related queries, such as registering for exams, updating personal details, and checking exam results."
+        ]
+    },
+    "chatbot_behavior": {
+        "patterns": [
+            "are you human",
+            "are you an AI",
+            "do you have feelings",
+            "how do you work",
+            "are you a robot"
+        ],
+        "responses": [
+            "I’m an AI-powered chatbot designed to assist with your queries. I don’t have feelings, but I’m always here to help!",
+            "I’m not human – I’m a virtual assistant powered by artificial intelligence to help you with university tasks."
+        ]
+    },
+    "chatbot_availability": {
+        "patterns": [
+            "are you always available",
+            "are you online",
+            "can you help me anytime",
+            "are you 24/7"
+        ],
+        "responses": [
+            "Yes, I’m available 24/7 to assist you with your questions and tasks.",
+            "I’m always here whenever you need help – day or night!"
+        ]
+    },
+    "chatbot_limitations": {
+        "patterns": [
+            "what can’t you do",
+            "do you have limitations",
+            "are you perfect",
+            "what if you don’t know the answer"
+        ],
+        "responses": [
+            "I can’t handle all tasks yet, but I’m constantly improving. If I don’t know something, I’ll let you know.",
+            "While I can help with university-related tasks, I might not have answers to everything. Let’s see how I can help you!"
+        ]
+    },
+    "chatbot_funny_questions": {
+        "patterns": [
+            "do you sleep",
+            "do you dream",
+            "can you take over the world",
+            "are you smarter than me",
+            "are you alive"
+        ],
+        "responses": [
+            "I don’t need sleep or dreams – I’m here to help you 24/7!",
+            "Taking over the world isn’t in my plans. Helping students is my only mission!"
+        ]
+    },
+    "chatbot_personalization": {
+        "patterns": [
+            "do you know my name",
+            "can you remember me",
+            "can you forget me",
+            "can you store my information",
+            "do you track my data"
+        ],
+        "responses": [
+            "I don’t store personal data unless you share it with me for specific tasks. Your privacy is important!",
+            "I only use the information you provide to assist you. I don’t track or store unnecessary data."
+        ]
+    },
+    "reset_command": {
+        "patterns": [
+            "forget",
+            "clear",
+            "reset",
+            "refresh",
+            "clean",
+            "clear memory",
+            "refresh memory",
+            "clean memory",
+            "reset my information",
+            "forget all details",
+            "clear all data"
+        ],
+        "responses": [
+            "All your details have been removed. How can I assist you now?"
+        ]
+    },
+    "fallback": {
+        "patterns": [],
+        "responses": [
+            "I’m not sure how to answer that, but I can help with university-related tasks.",
+            "Can you clarify your question? I’m here to help with exam schedules, registrations, and student information."
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+Hi!
+Who are you?
+What can you do?
+show my student profile
+My ID is 1234567
+Update my first name
+Emma
+maybe
+yes
+Update my last name to Muller
+correct
+clear all data 
+profile
+5678901
+refresh memory
+Good morning, I'm Evan (5678901). Change my address to Am Gardenkamp 51, 44227 Dortmund
+yes
+my personal information
+sign me up for the exam
+Computer Networks
+Yes
+profile
+sign me out from the exam
+correct
+student profile
+refresh memory
+Good afternoon! My name is Emma, and my ID is 1234567. The exam session starts next week. What is my registration status for Computer Networks exam?
+What is my registration status for Artificial Intelligence exam?
+what is my grade?
+refresh memory
+What is my grade for Data Structures and Algorithms exam? 
+My matriculation number is 1234567
+Enroll me for the exam
+Yes
+forget all details
+Sign me up for Computer Networks exam
+1234567
+yes
+Deregister me from Human-Computer Interaction exam
+yes
+thanks
+bye

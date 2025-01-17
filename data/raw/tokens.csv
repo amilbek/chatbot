@@ -1,0 +1,1079 @@
+text,entities
+"Please change my first name to Carol and my last name to Wilson.",Carol:first_name;Wilson:last_name
+"Change my first name to John and my last name to Smith.",John:first_name;Smith:last_name
+"Set my first name as Emma and my last name as Brown.",Emma:first_name;Brown:last_name
+"Update my first name to Hans and my last name to Müller.",Hans:first_name;Müller:last_name
+"I would like to change my first name to Maria and my last name to Schulz.",Maria:first_name;Schulz:last_name
+"Please update my first name to Aigerim and my last name to Zhaparova.",Aigerim:first_name;Zhaparova:last_name
+"Switch my first name to Alisher and my last name to Nursultanov.",Alisher:first_name;Nursultanov:last_name
+"Change my first name to Ivan and my last name to Petrov.",Ivan:first_name;Petrov:last_name
+"Make my first name Oksana and my last name Morozova.",Oksana:first_name;Morozova:last_name
+"Set my first name as James and my last name as Anderson.",James:first_name;Anderson:last_name
+"Please change my first name to Sophia and my last name to White.",Sophia:first_name;White:last_name
+"Switch my first name to Luca and my last name to Rossi.",Luca:first_name;Rossi:last_name
+"Change my first name to Isabella and my last name to Bianchi.",Isabella:first_name;Bianchi:last_name
+"Update my first name to Mateo and my last name to García.",Mateo:first_name;García:last_name
+"Make my first name Elena and my last name to López.",Elena:first_name;López:last_name
+"Please change my first name to Pierre and my last name to Dubois.",Pierre:first_name;Dubois:last_name
+"Set my first name as Camille and my last name as Moreau.",Camille:first_name;Moreau:last_name
+"Switch my first name to Kevin and my last name to Miller.",Kevin:first_name;Miller:last_name
+"Change my first name to Emily and my last name to Johnson.",Emily:first_name;Johnson:last_name
+"Please make my first name Johann and my last name to Schneider.",Johann:first_name;Schneider:last_name
+"Update my first name to Anna and my last name to Fischer.",Anna:first_name;Fischer:last_name
+"Change my first name to Nurai and my last name to Bekova.",Nurai:first_name;Bekova:last_name
+"Make my first name Adil and my last name to Zhanabayev.",Adil:first_name;Zhanabayev:last_name
+"Set my first name as Olga and my last name as Ivanova.",Olga:first_name;Ivanova:last_name
+"Switch my first name to Sergey and my last name to Kuznetsov.",Sergey:first_name;Kuznetsov:last_name
+"Please change my first name to Jessica and my last name to Brown.",Jessica:first_name;Brown:last_name
+"Make my first name Ryan and my last name to Williams.",Ryan:first_name;Williams:last_name
+"Please set my first name as Alessandro and my last name as Conti.",Alessandro:first_name;Conti:last_name
+"Change my first name to Chiara and my last name to Romano.",Chiara:first_name;Romano:last_name
+"Update my first name to Javier and my last name to Fernández.",Javier:first_name;Fernández:last_name
+"Set my first name as Sofía and my last name as Torres.",Sofía:first_name;Torres:last_name
+"Switch my first name to Antoine and my last name to Lefevre.",Antoine:first_name;Lefevre:last_name
+"Make my first name Elodie and my last name to Laurent.",Elodie:first_name;Laurent:last_name
+"Please change my first name to Michael and my last name to Scott.",Michael:first_name;Scott:last_name
+"Set my first name as Linda and my last name as Davis.",Linda:first_name;Davis:last_name
+"Change my first name to Fritz and my last name to Keller.",Fritz:first_name;Keller:last_name
+"Make my first name Claudia and my last name to Hoffmann.",Claudia:first_name;Hoffmann:last_name
+"Please update my first name to Anel and my last name to Sultanova.",Anel:first_name;Sultanova:last_name
+"Switch my first name to Timur and my last name to Rakhimov.",Timur:first_name;Rakhimov:last_name
+"Change my first name to Dmitry and my last name to Nikolaev.",Dmitry:first_name;Nikolaev:last_name
+"Set my first name as Natalia and my last name as Smirnova.",Natalia:first_name;Smirnova:last_name
+"Update my first name to William and my last name to Taylor.",William:first_name;Taylor:last_name
+"Please set my first name as Chloe and my last name as Thompson.",Chloe:first_name;Thompson:last_name
+"Switch my first name to Marco and my last name to Ferrari.",Marco:first_name;Ferrari:last_name
+"Change my first name to Giulia and my last name to Esposito.",Giulia:first_name;Esposito:last_name
+"Make my first name Mateo and my last name to Cruz.",Mateo:first_name;Cruz:last_name
+"Set my first name as Lucia and my last name as Reyes.",Lucia:first_name;Reyes:last_name
+"Please change my first name to Baptiste and my last name to Bernard.",Baptiste:first_name;Bernard:last_name
+"Switch my first name to Manon and my last name to Richard.",Manon:first_name;Richard:last_name
+"Update my first name to Steven and my last name to Evans.",Steven:first_name;Evans:last_name
+"Make my first name Amanda and my last name to Moore.",Amanda:first_name;Moore:last_name
+"Please set my first name as Julian and my last name as Mayer.",Julian:first_name;Mayer:last_name
+"Change my first name to Petra and my last name to Wagner.",Petra:first_name;Wagner:last_name
+"My new first name is Emily and my new last name is Turner.",Emily:first_name;Turner:last_name
+"From now on call me Anna Roberts.",Anna:first_name;Roberts:last_name
+"I want to be known as Maxim Ivanov.",Maxim:first_name;Ivanov:last_name
+"Please set my name to Sofia Lopez.",Sofia:first_name;Lopez:last_name
+"Change my name to Michael Brown.",Michael:first_name;Brown:last_name
+"I prefer to be called Claire Martin.",Claire:first_name;Martin:last_name
+"Replace my name with Daniel Müller.",Daniel:first_name;Müller:last_name
+"Could you update my name to Aliya Nursultanova?",Aliya:first_name;Nursultanova:last_name
+"Switch my name to Enrico Bianchi.",Enrico:first_name;Bianchi:last_name
+"I would like my new name to be Maria Gonzalez.",Maria:first_name;Gonzalez:last_name
+"Kindly update my first name to Nathan and my last name to Carter.",Nathan:first_name;Carter:last_name
+"Please change it so that my name is now Emma Schmidt.",Emma:first_name;Schmidt:last_name
+"Call me Luka Petrović from now on.",Luka:first_name;Petrović:last_name
+"Make my name Elena Ivanova.",Elena:first_name;Ivanova:last_name
+"I'd like to go by James Wilson.",James:first_name;Wilson:last_name
+"Could you set my identity to Matteo Rossi?",Matteo:first_name;Rossi:last_name
+"Refer to me as Laura Hernandez.",Laura:first_name;Hernandez:last_name
+"Please rename me to Aiman Tursynbay.",Aiman:first_name;Tursynbay:last_name
+"Let my name be Louis Dupont.",Louis:first_name;Dupont:last_name
+"Make sure my name is Julia Anderson.",Julia:first_name;Anderson:last_name
+"Could you switch my name to Viktor Romanov?",Viktor:first_name;Romanov:last_name
+"I'd prefer to be called Emily Baker.",Emily:first_name;Baker:last_name
+"Set my identity to Marco Conti.",Marco:first_name;Conti:last_name
+"Update my name to Sofia Alvarez.",Sofia:first_name;Alvarez:last_name
+"Please use my new name: Natalia Fedorova.",Natalia:first_name;Fedorova:last_name
+"Change my first name to Thomas and last name to Smith.",Thomas:first_name;Smith:last_name
+"Make my new name Gabriella Moretti.",Gabriella:first_name;Moretti:last_name
+"I'd like my first name to be Pablo and last name to be Ortega.",Pablo:first_name;Ortega:last_name
+"Let my name be Marie Laurent.",Marie:first_name;Laurent:last_name
+"Kindly change my name to Chris Johnson.",Chris:first_name;Johnson:last_name
+"I wish to be called Leon Berger.",Leon:first_name;Berger:last_name
+"Please update my details to Anastasia Sokolova.",Anastasia:first_name;Sokolova:last_name
+"Make my official name Yernar Askarov.",Yernar:first_name;Askarov:last_name
+"I want to go by Julia Lambert.",Julia:first_name;Lambert:last_name
+"Call me Hugo Fontaine from today onward.",Hugo:first_name;Fontaine:last_name
+"Set my name to Ana Morales.",Ana:first_name;Morales:last_name
+"Could you change my name to Diego Castillo?",Diego:first_name;Castillo:last_name
+"Let my new name be Alice Smith.",Alice:first_name;Smith:last_name
+"From now on refer to me as Ivan Nikolaev.",Ivan:first_name;Nikolaev:last_name
+"My updated name is Emma Gonzalez.",Emma:first_name;Gonzalez:last_name
+"I want my name to be Robert Garcia.",Robert:first_name;Garcia:last_name
+"Please register my new name as Clara Dupont.",Clara:first_name;Dupont:last_name
+"Set me up as Antoine Marchand.",Antoine:first_name;Marchand:last_name
+"I'd like my name to be changed to Sofia Ricci.",Sofia:first_name;Ricci:last_name
+"Please update my records to Laura Russo.",Laura:first_name;Russo:last_name
+"Let my name from now be John Miller.",John:first_name;Miller:last_name
+"Call me Isabelle Laurent starting today.",Isabelle:first_name;Laurent:last_name
+"Make sure to use Lucas Thompson.",Lucas:first_name;Thompson:last_name
+"Refer to me as Alina Kazbekova.",Alina:first_name;Kazbekova:last_name
+"Please set my name to Alex Brown.",Alex:first_name;Brown:last_name
+"The doctor is Dr. John Smith.",John:first_name;Smith:last_name
+"Can I speak to Mary?",Mary:first_name
+"My name is Alice Johnson.",Alice:first_name;Johnson:last_name
+"Mr. Robert Brown has arrived.",Robert:first_name;Brown:last_name
+"Please welcome Jane Doe to the stage.",Jane:first_name;Doe:last_name
+"The manager, Mr. Andrew Taylor, approved the plan.",Andrew:first_name;Taylor:last_name
+"Sarah Connor is our new colleague.",Sarah:first_name;Connor:last_name
+"Alex Martin presented the project.",Alex:first_name;Martin:last_name
+"Meet Fatima al-Khalid at the conference.",Fatima:first_name;al-Khalid:last_name
+"J.K. Rowling wrote the Harry Potter series.",J:first_name;K:last_name;Rowling:last_name
+"Luisa Garcia joined the team last week.",Luisa:first_name;Garcia:last_name
+"Call me Mike instead of Michael.",Mike:first_name;Michael:first_name
+"Liz prefers to be called Elizabeth.",Liz:first_name;Elizabeth:first_name
+"I met Hiroshi Tanaka yesterday.",Hiroshi:first_name;Tanaka:last_name
+"Anne-Marie Brown is my full name.",Anne-Marie:first_name;Brown:last_name
+"O'Connor is an Irish surname.",O'Connor:last_name
+"Jürgen Müller is visiting from Germany.",Jürgen:first_name;Müller:last_name
+"The book was authored by Mary Shelley.",Mary:first_name;Shelley:last_name
+"Can I speak with Mr. Mark Green?",Mark:first_name;Green:last_name
+"That is Lisa's bag.",Lisa:first_name
+"This is Michael's favorite shirt.",Michael:first_name
+"Dr. Emily White will attend the seminar.",Emily:first_name;White:last_name
+"The report was signed by R. T. Harris.",R:first_name;T:last_name;Harris:last_name
+"Meet our guest speaker, Mr. David Clark.",David:first_name;Clark:last_name
+"The lawyer's name is Ms. Linda Green.",Linda:first_name;Green:last_name
+"Alex introduced himself as Alex Smith.",Alex:first_name;Smith:last_name
+"The writer, Anne O'Brien, shared her thoughts.",Anne:first_name;O'Brien:last_name
+"Sarah's new role involves managing operations.",Sarah:first_name
+"Bill invited us to his house.",Bill:first_name
+"Can you ask Tom to join the meeting?",Tom:first_name
+"Prof. Andrew Wilson is an expert in mathematics.",Andrew:first_name;Wilson:last_name
+"Sophia Brown is a talented artist.",Sophia:first_name;Brown:last_name
+"E. M. Forster wrote several novels.",E:first_name;M:last_name;Forster:last_name
+"I had a meeting with Mr. Jack Harris.",Jack:first_name;Harris:last_name
+"Maria Rodriguez called earlier today.",Maria:first_name;Rodriguez:last_name
+"Will Smith starred in many movies.",Will:first_name;Smith:last_name
+"Emma Thompson received an award.",Emma:first_name;Thompson:last_name
+"The project manager is Mr. Paul Adams.",Paul:first_name;Adams:last_name
+"Isabella White was elected as the chairperson.",Isabella:first_name;White:last_name
+"The actor, Jürgen Schmidt, performed brilliantly.",Jürgen:first_name;Schmidt:last_name
+"The librarian, Ms. Clara Peters, is very helpful.",Clara:first_name;Peters:last_name
+"David Johnson was promoted last week.",David:first_name;Johnson:last_name
+"Can you call Jessica for the update?",Jessica:first_name
+"Mark's presentation was outstanding.",Mark:first_name
+"Let me introduce Peter Parker.",Peter:first_name;Parker:last_name
+"Emma's feedback was very insightful.",Emma:first_name
+"Dr. Alice Brown specializes in pediatrics.",Alice:first_name;Brown:last_name
+"Mr. Kevin Lee is the project supervisor.",Kevin:first_name;Lee:last_name
+"Laura Martin wrote a new book.",Laura:first_name;Martin:last_name
+"Patrick O'Leary joined the company last year.",Patrick:first_name;O'Leary:last_name
+"Dr. Maria Garcia gave an inspiring speech.",Maria:first_name;Garcia:last_name
+"James Wilson is leading the initiative.",James:first_name;Wilson:last_name
+"Hiroshi's design won the competition.",Hiroshi:first_name
+"Emily and Sarah are best friends.",Emily:first_name;Sarah:first_name
+"Call Dr. Robert immediately.",Robert:first_name
+"The email was sent to Mr. Adam Scott.",Adam:first_name;Scott:last_name
+"Mr. Thomas Green signed the agreement.",Thomas:first_name;Green:last_name
+"The conference featured Prof. Linda Taylor.",Linda:first_name;Taylor:last_name
+"Jessica and Michael are attending the wedding.",Jessica:first_name;Michael:first_name
+"Dr. Mark Harris presented the findings.",Mark:first_name;Harris:last_name
+"Elizabeth Smith chaired the meeting.",Elizabeth:first_name;Smith:last_name
+"Please forward the documents to Anne Brown.",Anne:first_name;Brown:last_name
+"John Doe was the first to arrive.",John:first_name;Doe:last_name
+"Jane's speech was very moving.",Jane:first_name
+"Dr. Emily Carter is renowned in her field.",Emily:first_name;Carter:last_name
+"Mr. Lucas Miller is the guest of honor.",Lucas:first_name;Miller:last_name
+"Sarah O'Neil shared her experience.",Sarah:first_name;O'Neil:last_name
+"James' report was very detailed.",James:first_name
+"The letter was addressed to Mr. Peter Adams.",Peter:first_name;Adams:last_name
+"The movie stars Emma White and Jack Brown.",Emma:first_name;White:last_name;Jack:first_name;Brown:last_name
+"Alice introduced herself as Alice Johnson.",Alice:first_name;Johnson:last_name
+"Dr. Clara Martin conducted the workshop.",Clara:first_name;Martin:last_name
+"Mr. Andrew Parker gave a keynote speech.",Andrew:first_name;Parker:last_name
+"Can I meet Ms. Sophia Taylor?",Sophia:first_name;Taylor:last_name
+"Bill invited Sarah to the party.",Bill:first_name;Sarah:first_name
+"Let me introduce Prof. Michael Green.",Michael:first_name;Green:last_name
+"Jessica Parker is a renowned author.",Jessica:first_name;Parker:last_name
+"Mark Wilson shared his insights.",Mark:first_name;Wilson:last_name
+"Sophia's contribution was significant.",Sophia:first_name
+"E. Harris sent the email.",E:first_name;Harris:last_name
+"Maria Lopez is visiting from Spain.",Maria:first_name;Lopez:last_name
+"Tom invited Emma to the concert.",Tom:first_name;Emma:first_name
+"The book was written by Anne Marie White.",Anne:first_name;Marie:first_name;White:last_name
+"Dr. Peter Garcia delivered the lecture.",Peter:first_name;Garcia:last_name
+"Can I speak to Mr. Alex Green?",Alex:first_name;Green:last_name
+"Let my name from now be Emma Wilson.",Emma:first_name;Wilson:last_name
+"Call me Michael Johnson starting today.",Michael:first_name;Johnson:last_name
+"Make sure to use Sarah Connor.",Sarah:first_name;Connor:last_name
+"Refer to me as David Clark.",David:first_name;Clark:last_name
+"Please set my name to Jessica Parker.",Jessica:first_name;Parker:last_name
+"The lawyer is Mr. Thomas Green.",Thomas:first_name;Green:last_name
+"Can I speak to Anna?",Anna:first_name
+"My name is Daniel Rodriguez.",Daniel:first_name;Rodriguez:last_name
+"Mr. Kevin Lee has arrived.",Kevin:first_name;Lee:last_name
+"Please welcome Laura Garcia to the meeting.",Laura:first_name;Garcia:last_name
+"The project leader, Ms. Emily White, approved the changes.",Emily:first_name;White:last_name
+"Call me Steve Brown starting today.",Steve:first_name;Brown:last_name
+"Refer to me as Maria Lopez.",Maria:first_name;Lopez:last_name
+"My new name is Oliver Scott.",Oliver:first_name;Scott:last_name
+"The guest is Dr. Lisa Taylor.",Lisa:first_name;Taylor:last_name
+"Can you contact Henry?",Henry:first_name
+"I would prefer being called Rachel Adams.",Rachel:first_name;Adams:last_name
+"Please call me Tom Harris from now on.",Tom:first_name;Harris:last_name
+"The speaker, Mr. Mark Evans, will join us shortly.",Mark:first_name;Evans:last_name
+"Call me Sophia Turner instead.",Sophia:first_name;Turner:last_name
+"Let my name from now be Olivia Cooper.",Olivia:first_name;Cooper:last_name
+"Call me Ethan Brown starting today.",Ethan:first_name;Brown:last_name
+"Make sure to use Isabella Miller.",Isabella:first_name;Miller:last_name
+"Refer to me as James Harris.",James:first_name;Harris:last_name
+"Please set my name to Charlotte Davis.",Charlotte:first_name;Davis:last_name
+"The professor is Dr. Alex Roberts.",Alex:first_name;Roberts:last_name
+"Can I speak to Ben?",Ben:first_name
+"My name is Lily Johnson.",Lily:first_name;Johnson:last_name
+"Mr. Samuel Smith has arrived.",Samuel:first_name;Smith:last_name
+"Please welcome Emily Clark to the presentation.",Emily:first_name;Clark:last_name
+"The team leader, Ms. Olivia Harris, will present the results.",Olivia:first_name;Harris:last_name
+"Call me Joshua Thompson starting today.",Joshua:first_name;Thompson:last_name
+"Refer to me as Victoria Garcia.",Victoria:first_name;Garcia:last_name
+"My new name is Caleb White.",Caleb:first_name;White:last_name
+"The speaker is Dr. Maya Brown.",Maya:first_name;Brown:last_name
+"Can you contact Lucy?",Lucy:first_name
+"I would prefer being called Daniel Scott.",Daniel:first_name;Scott:last_name
+"Please call me Rachel Harris from now on.",Rachel:first_name;Harris:last_name
+"The chairperson, Mr. Luke Wilson, will lead the discussion.",Luke:first_name;Wilson:last_name
+"Call me Grace Lewis instead.",Grace:first_name;Lewis:last_name
+"Let my name from now be Jacob Anderson.",Jacob:first_name;Anderson:last_name
+"Call me Sophie Johnson starting today.",Sophie:first_name;Johnson:last_name
+"Make sure to use Michael Roberts.",Michael:first_name;Roberts:last_name
+"Refer to me as Olivia White.",Olivia:first_name;White:last_name
+"Please set my name to Liam Harris.",Liam:first_name;Harris:last_name
+"The presenter is Dr. Victoria Lee.",Victoria:first_name;Lee:last_name
+"Can I speak to Mia?",Mia:first_name
+"My name is Daniel Mitchell.",Daniel:first_name;Mitchell:last_name
+"Mr. Noah Williams has arrived.",Noah:first_name;Williams:last_name
+"Please welcome Emma Clark to the event.",Emma:first_name;Clark:last_name
+"The director, Ms. Jessica Young, reviewed the proposal.",Jessica:first_name;Young:last_name
+"Call me Adam Walker starting today.",Adam:first_name;Walker:last_name
+"Refer to me as Isabella Green.",Isabella:first_name;Green:last_name
+"My new name is Alexander King.",Alexander:first_name;King:last_name
+"The keynote speaker is Dr. Natalie King.",Natalie:first_name;King:last_name
+"Can you contact Olivia?",Olivia:first_name
+"I would prefer being called Luke Mitchell.",Luke:first_name;Mitchell:last_name
+"Please call me Grace Young from now on.",Grace:first_name;Young:last_name
+"The coordinator, Mr. Ethan Parker, will be available for questions.",Ethan:first_name;Parker:last_name
+"Call me Sophia Lee instead.",Sophia:first_name;Lee:last_name
+"Let my name from now be Jack Taylor.",Jack:first_name;Taylor:last_name
+"Call me Clara Robinson starting today.",Clara:first_name;Robinson:last_name
+"Make sure to use Olivia Davis.",Olivia:first_name;Davis:last_name
+"Refer to me as Benjamin Harris.",Benjamin:first_name;Harris:last_name
+"Please set my name to Emily Scott.",Emily:first_name;Scott:last_name
+"The speaker is Dr. Michael Clark.",Michael:first_name;Clark:last_name
+"Can I speak to David?",David:first_name
+"My name is Lucy Martinez.",Lucy:first_name;Martinez:last_name
+"Mr. John Cooper has arrived.",John:first_name;Cooper:last_name
+"Please welcome Jessica Evans to the meeting.",Jessica:first_name;Evans:last_name
+"The CEO, Mr. William Anderson, gave a speech.",William:first_name;Anderson:last_name
+"Call me Lily Carter starting today.",Lily:first_name;Carter:last_name
+"Refer to me as George King.",George:first_name;King:last_name
+"My new name is Charlotte Green.",Charlotte:first_name;Green:last_name
+"The chairman is Mr. Henry Lewis.",Henry:first_name;Lewis:last_name
+"Can you contact Noah?",Noah:first_name
+"I would prefer being called Sarah Moore.",Sarah:first_name;Moore:last_name
+"Please call me Mark White from now on.",Mark:first_name;White:last_name
+"The project manager, Ms. Natalie Wright, will assist you.",Natalie:first_name;Wright:last_name
+"Call me Peter Roberts instead.",Peter:first_name;Roberts:last_name
+"Let my name from now be Sarah Lee.",Sarah:first_name;Lee:last_name
+"Call me Richard Walker starting today.",Richard:first_name;Walker:last_name
+"Make sure to use Eva King.",Eva:first_name;King:last_name
+"Refer to me as Thomas Lewis.",Thomas:first_name;Lewis:last_name
+"Please set my name to Rebecca Green.",Rebecca:first_name;Green:last_name
+"The speaker is Dr. Andrew White.",Andrew:first_name;White:last_name
+"Can I speak to Olivia?",Olivia:first_name
+"My name is Daniel Miller.",Daniel:first_name;Miller:last_name
+"Mr. Charles Harris has arrived.",Charles:first_name;Harris:last_name
+"Please welcome Sophie Parker to the stage.",Sophie:first_name;Parker:last_name
+"The director, Ms. Laura Martin, approved the proposal.",Laura:first_name;Martin:last_name
+"Call me Ethan Moore starting today.",Ethan:first_name;Moore:last_name
+"Refer to me as Rachel Adams.",Rachel:first_name;Adams:last_name
+"My new name is James Turner.",James:first_name;Turner:last_name
+"The president is Mr. George Taylor.",George:first_name;Taylor:last_name
+"Can you contact Lily?",Lily:first_name
+"I would prefer being called Emma Clark.",Emma:first_name;Clark:last_name
+"Please call me Daniel Young from now on.",Daniel:first_name;Young:last_name
+"The project lead, Mr. Adam King, is ready to discuss.",Adam:first_name;King:last_name
+"Call me Christopher Scott instead.",Christopher:first_name;Scott:last_name
+"Let me go by Jake Robinson.",Jake:first_name;Robinson:last_name
+"From now on, call me Sarah Williams.",Sarah:first_name;Williams:last_name
+"Please address me as Zoe Carter.",Zoe:first_name;Carter:last_name
+"I would like to be called Ryan Lee.",Ryan:first_name;Lee:last_name
+"Refer to me as Mia Turner.",Mia:first_name;Turner:last_name
+"The teacher is Mr. Brown.",Brown:last_name
+"Can I speak to Ms. Wilson?",Wilson:last_name
+"My last name is Davis.",Davis:last_name
+"Mr. Harris has arrived.",Harris:last_name
+"Please welcome Mrs. Anderson to the event.",Anderson:last_name
+"The manager, Ms. Thomas, signed the document.",Thomas:last_name
+"The author is Herr Müller.",Müller:last_name
+"Can I speak to Frau Schmidt?",Schmidt:last_name
+"My last name is Fischer.",Fischer:last_name
+"Herr Weber has arrived.",Weber:last_name
+"Please welcome Frau Wagner to the stage.",Wagner:last_name
+"The director, Herr Schneider, approved the plan.",Schneider:last_name
+"The speaker is Herr Becker.",Becker:last_name
+"Can I speak to Frau Hoffmann?",Hoffmann:last_name
+"My last name is Richter.",Richter:last_name
+"Herr Braun has joined the meeting.",Braun:last_name
+"Please welcome Frau Zimmermann to the event.",Zimmermann:last_name
+"The supervisor, Herr Koch, provided the feedback.",Koch:last_name
+"The director is Herr Müller.",Müller:last_name
+"Can I talk to Herr Schmidt?",Schmidt:last_name
+"My surname is Wagner.",Wagner:last_name
+"Frau Schneider will lead the session.",Schneider:last_name
+"Please welcome Herr Fischer to the stage.",Fischer:last_name
+"The new student is Frau Weber.",Weber:last_name
+"Herr Braun is overseeing the project.",Braun:last_name
+"Can you introduce Herr Hoffmann?",Hoffmann:last_name
+"My last name is Meyer.",Meyer:last_name
+"Frau Beck has confirmed her attendance.",Beck:last_name
+"Herr Zimmer is responsible for the department.",Zimmer:last_name
+"Please refer to Herr Klein for more details.",Klein:last_name
+"Frau Richter will handle the presentation.",Richter:last_name
+"The guest speaker is Herr Schulz.",Schulz:last_name
+"Herr Schwarz is leading the workshop.",Schwarz:last_name
+"Hey, could you please update my address? It’s now Bahnhofstraße 20, 80331 Munich.",Bahnhofstraße 20:address;Munich:city;80331:post_code
+"I need to let you know that my address has changed. It’s Rheinstraße 18, 64283 Darmstadt.",Rheinstraße 18:address;Darmstadt:city;64283:post_code
+"Please change my address to Mozartstraße 12, 79098 Freiburg, as soon as possible.",Mozartstraße 12:address;Freiburg:city;79098:post_code
+"By the way, I’ve moved, and my new address is Domstraße 25, 97070 Würzburg.",Domstraße 25:address;Würzburg:city;97070:post_code
+"Could you record my new address as Nonnenstraße 10, 04103 Leipzig?",Nonnenstraße 10:address;Leipzig:city;04103:post_code
+"I’ve moved to 65183, Wiesbaden, Goethestraße 5.",Goethestraße 5:address;Wiesbaden:city;65183:post_code
+"Please update my address: 76133, Karlsruhe, Stephanienstraße 8.",Stephanienstraße 8:address;Karlsruhe:city;76133:post_code
+"My new place is 49074, Osnabrück, Kampstraße 15.",Kampstraße 15:address;Osnabrück:city;49074:post_code
+"I now live at Wilhelmstraße 5, 72074 Tübingen.",Wilhelmstraße 5:address;Tübingen:city;72074:post_code
+"Could you please change my address to 97080, Würzburg, Zeller Straße 9?",Zeller Straße 9:address;Würzburg:city;97080:post_code
+"My updated address is now Vorstraße 28, 28203 Bremen.",Vorstraße 28:address;Bremen:city;28203:post_code
+"Hi, I’ve changed my address to 70178 Stuttgart, Marienstraße 10.",Marienstraße 10:address;Stuttgart:city;70178:post_code
+"I need to update my records with my new address: Lavesstraße 22, 30175 Hanover.",Lavesstraße 22:address;Hanover:city;30175:post_code
+"Please note that my address is now Friedrichstraße 18, 90402 Nuremberg.",Friedrichstraße 18:address;Nuremberg:city;90402:post_code
+"Just to inform you, I am now living at Bahnhofstraße 12, 80331 Munich.",Bahnhofstraße 12:address;Munich:city;80331:post_code
+"Change my address in your system to Hauptstraße 50, 10117 Berlin.",Hauptstraße 50:address;Berlin:city;10117:post_code
+"I relocated to 40210 Düsseldorf, Sonnenallee 15.",Sonnenallee 15:address;Düsseldorf:city;40210:post_code
+"Kindly update my details with 64283, Darmstadt, Rheinstraße 20.",Rheinstraße 20:address;Darmstadt:city;64283:post_code
+"I now live in 97072 Würzburg, Sanderring 10.",Sanderring 10:address;Würzburg:city;97072:post_code
+"My address has been changed to Brückenstraße 9, 01067 Dresden.",Brückenstraße 9:address;Dresden:city;01067:post_code
+"Please update my records: 14471, Potsdam, Wilhelmplatz 12.",Wilhelmplatz 12:address;Potsdam:city;14471:post_code
+"I moved to Goethestraße 5, 99084 Erfurt.",Goethestraße 5:address;Erfurt:city;99084:post_code
+"Please record my current address: Urbanstraße 4, 70182 Stuttgart.",Urbanstraße 4:address;Stuttgart:city;70182:post_code
+"Make sure my address is updated to 68165 Mannheim, Friedrichsplatz 14.",Friedrichsplatz 14:address;Mannheim:city;68165:post_code
+"I’ve changed my address. It’s now 86152 Augsburg, Maximilianstraße 45.",Maximilianstraße 45:address;Augsburg:city;86152:post_code
+"I now reside at Domplatz 1, 93047 Regensburg.",Domplatz 1:address;Regensburg:city;93047:post_code
+"My new address is Königsallee 80, 40213 Düsseldorf.",Königsallee 80:address;Düsseldorf:city;40213:post_code
+"Can you change my address to Olgastraße 11, 70182 Stuttgart?",Olgastraße 11:address;Stuttgart:city;70182:post_code
+"I’ve moved to Leopoldstraße 27, 80802 Munich.",Leopoldstraße 27:address;Munich:city;80802:post_code
+"I want to update my address to Nonnenstraße 28, 04103 Leipzig.",Nonnenstraße 28:address;Leipzig:city;04103:post_code
+"Please change my address to Schlossstraße 8, 24103 Kiel.",Schlossstraße 8:address;Kiel:city;24103:post_code
+"I’ve relocated to Hildesheimer Straße 20, 30159 Hanover.",Hildesheimer Straße 20:address;Hanover:city;30159:post_code
+"My current address is now Auguststraße 10, 86150 Augsburg.",Auguststraße 10:address;Augsburg:city;86150:post_code
+"Change my address to Friedrichstraße 50, 10117 Berlin.",Friedrichstraße 50:address;Berlin:city;10117:post_code
+"My updated address is Rheingauer Straße 30, 65185 Wiesbaden.",Rheingauer Straße 30:address;Wiesbaden:city;65185:post_code
+"Please update my address as Wilhelmstraße 25, 44135 Dortmund.",Wilhelmstraße 25:address;Dortmund:city;44135:post_code
+"I moved to Kampstraße 22, 49074 Osnabrück.",Kampstraße 22:address;Osnabrück:city;49074:post_code
+"My residence is now Karlstraße 10, 64283 Darmstadt.",Karlstraße 10:address;Darmstadt:city;64283:post_code
+"I updated my address to Schloßstraße 5, 99084 Erfurt.",Schloßstraße 5:address;Erfurt:city;99084:post_code
+"Please change my contact details to Auguststraße 15, 86150 Augsburg.",Auguststraße 15:address;Augsburg:city;86150:post_code
+"Now I live at Wilhelmplatz 8, 14471 Potsdam.",Wilhelmplatz 8:address;Potsdam:city;14471:post_code
+"Could you update my information to include Urbanstraße 7, 70182 Stuttgart?",Urbanstraße 7:address;Stuttgart:city;70182:post_code
+"I relocated to Gartenstraße 9, 70174 Stuttgart.",Gartenstraße 9:address;Stuttgart:city;70174:post_code
+"Kindly note that my current address is Stephanienstraße 10, 76133 Karlsruhe.",Stephanienstraße 10:address;Karlsruhe:city;76133:post_code
+"My latest address is now Domplatz 12, 93047 Regensburg.",Domplatz 12:address;Regensburg:city;93047:post_code
+"Good morning, my new location is Bahnhofstraße 30, 80331 Munich.",Bahnhofstraße 30:address;Munich:city;80331:post_code
+"I've recently moved to Friedrichstraße 20, 90402 Nuremberg.",Friedrichstraße 20:address;Nuremberg:city;90402:post_code
+"Update my records to show Lavesstraße 10, 30175 Hanover.",Lavesstraße 10:address;Hanover:city;30175:post_code
+"I now reside at Zähringerstraße 22, 79106 Freiburg.",Zähringerstraße 22:address;Freiburg:city;79106:post_code
+"Please change my address to Kampstraße 18, 49074 Osnabrück.",Kampstraße 18:address;Osnabrück:city;49074:post_code
+"My new residence is Wilhelmstraße 5, 72074 Tübingen.",Wilhelmstraße 5:address;Tübingen:city;72074:post_code
+"Record my new address as Maximilianstraße 50, 86152 Augsburg.",Maximilianstraße 50:address;Augsburg:city;86152:post_code
+"I recently relocated to Brückenstraße 12, 01067 Dresden.",Brückenstraße 12:address;Dresden:city;01067:post_code
+"Note that my current residence is Kaiserstraße 25, 28195 Bremen.",Kaiserstraße 25:address;Bremen:city;28195:post_code
+"I shifted to Marienstraße 15, 70178 Stuttgart.",Marienstraße 15:address;Stuttgart:city;70178:post_code
+"Kindly update my address to include Rheinstraße 30, 64283 Darmstadt.",Rheinstraße 30:address;Darmstadt:city;64283:post_code
+"Update my profile with Rathausplatz 10, 68161 Mannheim.",Rathausplatz 10:address;Mannheim:city;68161:post_code
+"I moved into Schloßstraße 20, 24103 Kiel.",Schloßstraße 20:address;Kiel:city;24103:post_code
+"Could you please update my address to Friedrichstraße 60, 10117 Berlin?",Friedrichstraße 60:address;Berlin:city;10117:post_code
+"My new address is Domstraße 8, 97070 Würzburg.",Domstraße 8:address;Würzburg:city;97070:post_code
+"I am currently living at Urbanstraße 12, 70182 Stuttgart.",Urbanstraße 12:address;Stuttgart:city;70182:post_code
+"Just a heads-up, I now live at Auguststraße 18, 86150 Augsburg.",Auguststraße 18:address;Augsburg:city;86150:post_code
+"Please change my details to include Hauptstraße 25, 10117 Berlin.",Hauptstraße 25:address;Berlin:city;10117:post_code
+"By the way, I relocated to Wilhelmstraße 15, 72074 Tübingen.",Wilhelmstraße 15:address;Tübingen:city;72074:post_code
+"Let me update you, I now live at Kampstraße 10, 49074 Osnabrück.",Kampstraße 10:address;Osnabrück:city;49074:post_code
+"Make sure to change my address to Lavesstraße 20, 30175 Hanover.",Lavesstraße 20:address;Hanover:city;30175:post_code
+"My updated residence is Friedrichstraße 8, 90402 Nuremberg.",Friedrichstraße 8:address;Nuremberg:city;90402:post_code
+"Please ensure my address is updated to Vorstraße 50, 28203 Bremen.",Vorstraße 50:address;Bremen:city;28203:post_code
+"I recently moved into Rathausplatz 12, 68161 Mannheim.",Rathausplatz 12:address;Mannheim:city;68161:post_code
+"Make sure my current address is Schloßstraße 15, 99084 Erfurt.",Schloßstraße 15:address;Erfurt:city;99084:post_code
+"Hey, my residence has changed to Domplatz 5, 93047 Regensburg.",Domplatz 5:address;Regensburg:city;93047:post_code
+"I now stay at Maximilianstraße 8, 86152 Augsburg.",Maximilianstraße 8:address;Augsburg:city;86152:post_code
+"Please note that my address is Gartenstraße 10, 70174 Stuttgart.",Gartenstraße 10:address;Stuttgart:city;70174:post_code
+"I have moved to Brückenstraße 15, 01067 Dresden.",Brückenstraße 15:address;Dresden:city;01067:post_code
+"Update my new location to Auguststraße 12, 86150 Augsburg.",Auguststraße 12:address;Augsburg:city;86150:post_code
+"Kindly change my residence to Hauptstraße 20, 10117 Berlin.",Hauptstraße 20:address;Berlin:city;10117:post_code
+"I currently live at Friedrichstraße 30, 90402 Nuremberg.",Friedrichstraße 30:address;Nuremberg:city;90402:post_code
+"Good morning, my name is Meier (123456) and I've moved. I now live in 44143 Dortmund at Hauptstrasse 12. Please change my address.",Hauptstrasse 12:address;Dortmund:city;44143:post_code
+"Please update my new residence as Zähringerstraße 22, 79106 Freiburg.",Zähringerstraße 22:address;Freiburg:city;79106:post_code
+"My new address is Wilhelmstraße 10, 72074 Tübingen.",Wilhelmstraße 10:address;Tübingen:city;72074:post_code
+"I've recently relocated to Rathausplatz 25, 68161 Mannheim.",Rathausplatz 25:address;Mannheim:city;68161:post_code
+"Make sure my records show Friedrichstraße 28, 90402 Nuremberg.",Friedrichstraße 28:address;Nuremberg:city;90402:post_code
+"Please change my address to Schloßstraße 30, 99084 Erfurt.",Schloßstraße 30:address;Erfurt:city;99084:post_code
+"I updated my residence to Maximilianstraße 35, 86152 Augsburg.",Maximilianstraße 35:address;Augsburg:city;86152:post_code
+"Kindly change my details to include Domplatz 10, 93047 Regensburg.",Domplatz 10:address;Regensburg:city;93047:post_code
+"By the way, my current address is Urbanstraße 18, 70182 Stuttgart.",Urbanstraße 18:address;Stuttgart:city;70182:post_code
+"Let my profile reflect Hauptstraße 16, 10117 Berlin.",Hauptstraße 16:address;Berlin:city;10117:post_code
+"Hey, update my contact information to Vorstraße 18, 28203 Bremen.",Vorstraße 18:address;Bremen:city;28203:post_code
+"Good afternoon, I now stay at Kampstraße 12, 49074 Osnabrück.",Kampstraße 12:address;Osnabrück:city;49074:post_code
+"My new place of residence is Bahnhofstraße 40, 80331 Munich.",Bahnhofstraße 40:address;Munich:city;80331:post_code
+"I currently live at Domstraße 45, 97070 Würzburg.",Domstraße 45:address;Würzburg:city;97070:post_code
+"Update my profile to reflect Brückenstraße 19, 01067 Dresden.",Brückenstraße 19:address;Dresden:city;01067:post_code
+"My new location is Urbanstraße 20, 70182 Stuttgart.",Urbanstraße 20:address;Stuttgart:city;70182:post_code
+"Please record my updated address as Zähringerstraße 25, 79106 Freiburg.",Zähringerstraße 25:address;Freiburg:city;79106:post_code
+"I now reside at Rathausplatz 30, 68161 Mannheim.",Rathausplatz 30:address;Mannheim:city;68161:post_code
+"Let my address be updated to Maximilianstraße 12, 86152 Augsburg.",Maximilianstraße 12:address;Augsburg:city;86152:post_code
+"Change my contact information to Domplatz 50, 93047 Regensburg.",Domplatz 50:address;Regensburg:city;93047:post_code
+"My new residence is 10117 Berlin at Hauptstraße 55.",Hauptstraße 55:address;Berlin:city;10117:post_code
+"Kindly update my address to include Bahnhofstraße 15, 80331 Munich.",Bahnhofstraße 15:address;Munich:city;80331:post_code
+"My latest residence is Wilhelmstraße 18, 72074 Tübingen.",Wilhelmstraße 18:address;Tübingen:city;72074:post_code
+"I moved to Rathausplatz 8, 68161 Mannheim.",Rathausplatz 8:address;Mannheim:city;68161:post_code
+"Update my records to reflect Friedrichstraße 35, 90402 Nuremberg.",Friedrichstraße 35:address;Nuremberg:city;90402:post_code
+"My new location is Domstraße 20, 97070 Würzburg.",Domstraße 20:address;Würzburg:city;97070:post_code
+"Hey, can you please update my profile to show Zähringerstraße 30, 79106 Freiburg?",Zähringerstraße 30:address;Freiburg:city;79106:post_code
+"I have changed my residence to Auguststraße 25, 86150 Augsburg.",Auguststraße 25:address;Augsburg:city;86150:post_code
+"Let me inform you that my address is now Brückenstraße 40, 01067 Dresden.",Brückenstraße 40:address;Dresden:city;01067:post_code
+"Make sure my contact details are updated with Wilhelmstraße 12, 72074 Tübingen.",Wilhelmstraße 12:address;Tübingen:city;72074:post_code
+"I currently live at Kampstraße 18, 49074 Osnabrück.",Kampstraße 18:address;Osnabrück:city;49074:post_code
+"Good day, my residence has changed to Bahnhofstraße 25, 80331 Munich.",Bahnhofstraße 25:address;Munich:city;80331:post_code
+"Change my records to Friedrichstraße 12, 90402 Nuremberg.",Friedrichstraße 12:address;Nuremberg:city;90402:post_code
+"My updated residence is now Rathausplatz 20, 68161 Mannheim.",Rathausplatz 20:address;Mannheim:city;68161:post_code
+"Please record my new address as Domstraße 5, 97070 Würzburg.",Domstraße 5:address;Würzburg:city;97070:post_code
+"Note that my current address is Zähringerstraße 35, 79106 Freiburg.",Zähringerstraße 35:address;Freiburg:city;79106:post_code
+"I have relocated to Urbanstraße 30, 70182 Stuttgart.",Urbanstraße 30:address;Stuttgart:city;70182:post_code
+"My present location is Hauptstraße 20, 10117 Berlin.",Hauptstraße 20:address;Berlin:city;10117:post_code
+"Please ensure my details show Gartenstraße 22, 70174 Stuttgart.",Gartenstraße 22:address;Stuttgart:city;70174:post_code
+"By the way, I live at Auguststraße 30, 86150 Augsburg.",Auguststraße 30:address;Augsburg:city;86150:post_code
+"Kindly make a note of my address: Schloßstraße 28, 99084 Erfurt.",Schloßstraße 28:address;Erfurt:city;99084:post_code
+"My updated contact information includes Kampstraße 10, 49074 Osnabrück.",Kampstraße 10:address;Osnabrück:city;49074:post_code
+"Please replace my old address with Bahnhofstraße 8, 80331 Munich.",Bahnhofstraße 8:address;Munich:city;80331:post_code
+"Let my profile indicate Rathausplatz 12, 68161 Mannheim.",Rathausplatz 12:address;Mannheim:city;68161:post_code
+"My new address is 86150 Augsburg at Auguststraße 5.",Auguststraße 5:address;Augsburg:city;86150:post_code
+"Can you update my details to reflect 70182 Stuttgart at Urbanstraße 50?",Urbanstraße 50:address;Stuttgart:city;70182:post_code
+"I recently moved to 44143 Dortmund at Hauptstrasse 12.",Hauptstrasse 12:address;Dortmund:city;44143:post_code
+"Please update my address to 70178 Stuttgart at Marienstraße 10.",Marienstraße 10:address;Stuttgart:city;70178:post_code
+"I've relocated to 80331 Munich at Sonnenstraße 14.",Sonnenstraße 14:address;Munich:city;80331:post_code
+"My new address is 01067 Dresden at Wiener Straße 34.",Wiener Straße 34:address;Dresden:city;01067:post_code
+"Kindly change my address to 97070 Würzburg at Juliuspromenade 2.",Juliuspromenade 2:address;Würzburg:city;97070:post_code
+"I now reside at 68161 Mannheim at Friedrichsplatz 10.",Friedrichsplatz 10:address;Mannheim:city;68161:post_code
+"Good afternoon, please update my residence to 86150 Augsburg at Auguststraße 14.",Auguststraße 14:address;Augsburg:city;86150:post_code
+"Kindly ensure my address is changed to 14471 Potsdam at Wilhelmplatz 9.",Wilhelmplatz 9:address;Potsdam:city;14471:post_code
+"Please record my address as 70182 Stuttgart at Urbanstraße 4.",Urbanstraße 4:address;Stuttgart:city;70182:post_code
+"I am now staying at 10117 Berlin at Luisenstraße 24.",Luisenstraße 24:address;Berlin:city;10117:post_code
+"I recently changed my address to 28203 Bremen at Vorstraße 28.",Vorstraße 28:address;Bremen:city;28203:post_code
+"My residence has been updated to 49074 Osnabrück at Kampstraße 22.",Kampstraße 22:address;Osnabrück:city;49074:post_code
+"Kindly make sure my address is 72074 Tübingen at Wilhelmstraße 5.",Wilhelmstraße 5:address;Tübingen:city;72074:post_code
+"I relocated to 93047 Regensburg at Domplatz 5.",Domplatz 5:address;Regensburg:city;93047:post_code
+"My current address is 97072 Würzburg at Sanderring 8.",Sanderring 8:address;Würzburg:city;97072:post_code
+"Please change my address to 70174 Stuttgart at Lautenschlagerstraße 3.",Lautenschlagerstraße 3:address;Stuttgart:city;70174:post_code
+"I've updated my residence to 24103 Kiel at Schlossstraße 8.",Schlossstraße 8:address;Kiel:city;24103:post_code
+"Kindly modify my details to show 86152 Augsburg at Maximilianstraße 45.",Maximilianstraße 45:address;Augsburg:city;86152:post_code
+"Update my profile to indicate 10117 Berlin at Friedrichstraße 50.",Friedrichstraße 50:address;Berlin:city;10117:post_code
+"My new residence is 04103 Leipzig at Augustusplatz 1.",Augustusplatz 1:address;Leipzig:city;04103:post_code
+"Good morning, please note my new address: 53113 Bonn at Am Hofgarten 7.",Am Hofgarten 7:address;Bonn:city;53113:post_code
+"Please update my address to Am Hauptbahnhof 15, 12345 Frankfurt.",Am Hauptbahnhof 15:address;Frankfurt:city;12345:post_code
+"I’ve moved to Neue Straße 5, 45239 Düsseldorf. Kindly update my details.",Neue Straße 5:address;Düsseldorf:city;45239:post_code
+"My new address is in Königstraße 8, 70173 Stuttgart.",Königstraße 8:address;Stuttgart:city;70173:post_code
+"Just letting you know, my new address is Schillerstraße 42, 76137 Karlsruhe.",Schillerstraße 42:address;Karlsruhe:city;76137:post_code
+"I’ve relocated to Wilhelmstraße 11, 60311 Frankfurt.",Wilhelmstraße 11:address;Frankfurt:city;60311:post_code
+"Please change my address to Breidenbacherstraße 12, 40210 Düsseldorf.",Breidenbacherstraße 12:address;Düsseldorf:city;40210:post_code
+"My updated address is Mühlstraße 9, 30159 Hanover.",Mühlstraße 9:address;Hanover:city;30159:post_code
+"I now reside at Brauhausstraße 7, 50667 Cologne.",Brauhausstraße 7:address;Cologne:city;50667:post_code
+"I’m now at Bismarckstraße 14, 47051 Duisburg.",Bismarckstraße 14:address;Duisburg:city;47051:post_code
+"Update my address to Hohenstaufenstraße 27, 70188 Stuttgart.",Hohenstaufenstraße 27:address;Stuttgart:city;70188:post_code
+"Please make a note that I’ve moved to Kirchgasse 4, 97072 Würzburg.",Kirchgasse 4:address;Würzburg:city;97072:post_code
+"Just informing you, my new address is Rosenstraße 20, 70174 Stuttgart.",Rosenstraße 20:address;Stuttgart:city;70174:post_code
+"I’ve relocated to 70174 Stuttgart at Friedrichstraße 9, . Please update accordingly.",Friedrichstraße 9:address;Stuttgart:city;70174:post_code
+"My new address is 76133 Karlsruhe at Kaiserstraße 35.",Kaiserstraße 35:address;Karlsruhe:city;76133:post_code
+"I am now living 10115 Berlin at Lindenstraße 3. Please update your records.",Lindenstraße 3:address;Berlin:city;10115:post_code
+"Please update my address to Gartenstraße 8, 40223 Düsseldorf.",Gartenstraße 8:address;Düsseldorf:city;40223:post_code
+"I’ve moved to Mühlenstraße 6, 40213 Düsseldorf. Please make the change.",Mühlenstraße 6:address;Düsseldorf:city;40213:post_code
+"My new address is Kirchplatz 7, 80335 Munich.",Kirchplatz 7:address;Munich:city;80335:post_code
+"I’ve changed my address to Wilhelmstraße 45, 40474 Düsseldorf.",Wilhelmstraße 45:address;Düsseldorf:city;40474:post_code
+"Please update my records to Sternstraße 12, 58095 Hagen.",Sternstraße 12:address;Hagen:city;58095:post_code
+"I’ve moved to Bockenheimer Landstraße 51, 60325 Frankfurt.",Bockenheimer Landstraße 51:address;Frankfurt:city;60325:post_code
+"My address is now in Gärtnerstraße 3, 10119 Berlin.",Gärtnerstraße 3:address;Berlin:city;10119:post_code
+"I now live at Torstraße 11, 10119 Berlin.",Torstraße 11:address;Berlin:city;10119:post_code
+"Please make sure my new address is updated to Steinstraße 17, 65183 Wiesbaden.",Steinstraße 17:address;Wiesbaden:city;65183:post_code
+"Update my address to Breidenbacherstraße 15, 40210 Düsseldorf.",Breidenbacherstraße 15:address;Düsseldorf:city;40210:post_code
+"I now live at Kaiserstraße 44, 40477 Düsseldorf.",Kaiserstraße 44:address;Düsseldorf:city;40477:post_code
+"Please change my address to Lindenplatz 22, 50674 Cologne.",Lindenplatz 22:address;Cologne:city;50674:post_code
+"I have moved to Bergerstraße 40, 60316 Frankfurt.",Bergerstraße 40:address;Frankfurt:city;60316:post_code
+"Update my address to Grosse Bleichen 5, 20354 Hamburg.",Grosse Bleichen 5:address;Hamburg:city;20354:post_code
+"Please note my new address is Schmiedestraße 3, 21335 Lüneburg.",Schmiedestraße 3:address;Lüneburg:city;21335:post_code
+"I’ve changed my address to Rindermarkt 4, 80331 Munich.",Rindermarkt 4:address;Munich:city;80331:post_code
+"My updated address is Wilhelmstraße 30, 49074 Osnabrück.",Wilhelmstraße 30:address;Osnabrück:city;49074:post_code
+"Please update my details to Königstraße 10, 70173 Stuttgart.",Königstraße 10:address;Stuttgart:city;70173:post_code
+"I now live at Mozartstraße 15, 79098 Freiburg.",Mozartstraße 15:address;Freiburg:city;79098:post_code
+"My new address is Fürstenstraße 25, 44135 Dortmund.",Fürstenstraße 25:address;Dortmund:city;44135:post_code
+"I’ve moved to Holstenstraße 22, 22767 Hamburg.",Holstenstraße 22:address;Hamburg:city;22767:post_code
+"My address is now in Schlachthofstraße 5, 70188 Stuttgart.",Schlachthofstraße 5:address;Stuttgart:city;70188:post_code
+"Please change my address to Bockenheimer Straße 95, 60325 Frankfurt.",Bockenheimer Straße 95:address;Frankfurt:city;60325:post_code
+"I now live at Hohenzollerndamm 12, 14199 Berlin.",Hohenzollerndamm 12:address;Berlin:city;14199:post_code
+"My new address is Bismarckstraße 16, 10625 Berlin.",Bismarckstraße 16:address;Berlin:city;10625:post_code
+"Please update my address to Friedrichstraße 5, 70174 Stuttgart.",Friedrichstraße 5:address;Stuttgart:city;70174:post_code
+"I’ve moved to Erfurter Str. 13, 10553 Berlin.",Erfurter Str. 13:address;Berlin:city;10553:post_code
+"Update my address to Franz-Joseph-Str. 2, 90443 Nuremberg.",Franz-Joseph-Str. 2:address;Nuremberg:city;90443:post_code
+"Please change my details to Paulstraße 12, 68161 Mannheim.",Paulstraße 12:address;Mannheim:city;68161:post_code
+"I’ve moved to Albertstraße 8, 10999 Berlin.",Albertstraße 8:address;Berlin:city;10999:post_code
+"My new address is Theodor-Heuss-Straße 21, 70174 Stuttgart.",Theodor-Heuss-Straße 21:address;Stuttgart:city;70174:post_code
+"Update my address to Westendstraße 29, 60325 Frankfurt.",Westendstraße 29:address;Frankfurt:city;60325:post_code
+"My address is now at Gladbecker Str. 1, 45326 Essen.",Gladbecker Str. 1:address;Essen:city;45326:post_code
+"I now live in Herderstraße 17, 22765 Hamburg.",Herderstraße 17:address;Hamburg:city;22765:post_code
+"Please change my address to Baaderstraße 10, 80469 Munich.",Baaderstraße 10:address;Munich:city;80469:post_code
+"I’ve moved to Akazienstraße 15, 10823 Berlin.",Akazienstraße 15:address;Berlin:city;10823:post_code
+"My address is now Widenmayerstraße 10, 81667 Munich.",Widenmayerstraße 10:address;Munich:city;81667:post_code
+"Please change my address to Lothringer Straße 34, 81827 Munich.",Lothringer Straße 34:address;Munich:city;81827:post_code
+"I’ve moved to Friedrich-Ebert-Straße 7, 63065 Offenbach.",Friedrich-Ebert-Straße 7:address;Offenbach:city;63065:post_code
+"My updated address is Herzogstraße 5, 80331 Munich.",Herzogstraße 5:address;Munich:city;80331:post_code
+"I’ve relocated to Vogelstraße 19, 76137 Karlsruhe.",Vogelstraße 19:address;Karlsruhe:city;76137:post_code
+"Please update my records to Hauptstraße 60, 70178 Stuttgart.",Hauptstraße 60:address;Stuttgart:city;70178:post_code
+"I now live in Siegburger Straße 28, 53229 Bonn.",Siegburger Straße 28:address;Bonn:city;53229:post_code
+"Please change my address to Lützowstraße 10, 10785 Berlin.",Lützowstraße 10:address;Berlin:city;10785:post_code
+"My new address is Kleiststraße 16, 12049 Berlin.",Kleiststraße 16:address;Berlin:city;12049:post_code
+"Please change my details to Oderstraße 23, 12435 Berlin.",Oderstraße 23:address;Berlin:city;12435:post_code
+"I have relocated to Sternschanze 3, 20357 Hamburg.",Sternschanze 3:address;Hamburg:city;20357:post_code
+"My new address is 10117 Berlin at Wilhelmstraße 45.",Wilhelmstraße 45:address;Berlin:city;10117:post_code
+"Please update my address to 10969 Berlin at Friedrichstraße 2.",Friedrichstraße 2:address;Berlin:city;10969:post_code
+"I now live at Thomas-Mann-Straße 18, 81927 Munich.",Thomas-Mann-Straße 18:address;Munich:city;81927:post_code
+"Please update my address to Wasserturmstraße 10, 50674 Cologne.",Wasserturmstraße 10:address;Cologne:city;50674:post_code
+"My address is now Schillerstraße 8, 80336 Munich.",Schillerstraße 8:address;Munich:city;80336:post_code
+"I’ve moved to Friedrichstraße 12, 10117 Berlin.",Friedrichstraße 12:address;Berlin:city;10117:post_code
+"Please change my address to Einsteinstraße 4, 79110 Freiburg.",Einsteinstraße 4:address;Freiburg:city;79110:post_code
+"I’ve relocated to Grabenstraße 15, 60313 Frankfurt.",Grabenstraße 15:address;Frankfurt:city;60313:post_code
+"My new address is Tulpenstraße 23, 76139 Karlsruhe.",Tulpenstraße 23:address;Karlsruhe:city;76139:post_code
+"Please update my records to Amalienstraße 42, 80799 Munich.",Amalienstraße 42:address;Munich:city;80799:post_code
+"My address has changed to Unter den Linden 17, 10117 Berlin.",Unter den Linden 17:address;Berlin:city;10117:post_code
+"I’ve moved to Pappelallee 18, 10437 Berlin.",Pappelallee 18:address;Berlin:city;10437:post_code
+"Please change my address to Geibelstraße 30, 50354 Cologne.",Geibelstraße 30:address;Cologne:city;50354:post_code
+"I now live at Königsallee 17, 40212 Düsseldorf.",Königsallee 17:address;Düsseldorf:city;40212:post_code
+"My new address is Weinheimer Str. 25, 69120 Heidelberg.",Weinheimer Str. 25:address;Heidelberg:city;69120:post_code
+"Please update my address to Finkenstraße 10, 90419 Nuremberg.",Finkenstraße 10:address;Nuremberg:city;90419:post_code
+"My new address is Brückenstraße 5, 69115 Heidelberg.",Brückenstraße 5:address;Heidelberg:city;69115:post_code
+"Please change my address to Alt-Moabit 60, 10555 Berlin.",Alt-Moabit 60:address;Berlin:city;10555:post_code
+"I’ve relocated to Josefstraße 12, 80335 Munich.",Josefstraße 12:address;Munich:city;80335:post_code
+"My new address is Seestraße 30, 13353 Berlin.",Seestraße 30:address;Berlin:city;13353:post_code
+"My new address is Gustavstraße 9, 80687 Munich.",Gustavstraße 9:address;Munich:city;80687:post_code
+"Please change my address to Rüdesheimer Str. 8, 65343 Eltville.",Rüdesheimer Str. 8:address;Eltville:city;65343:post_code
+"I now live at Dreieichstraße 5, 60594 Frankfurt.",Dreieichstraße 5:address;Frankfurt:city;60594:post_code
+"Please update my details to Langer Weg 30, 38239 Salzgitter.",Langer Weg 30:address;Salzgitter:city;38239:post_code
+"Please change my address to Nürnberger Str. 50, 10117 Berlin.",Nürnberger Str. 50:address;Berlin:city;10117:post_code
+"I’ve moved to Landwehrstraße 30, 80336 Munich.",Landwehrstraße 30:address;Munich:city;80336:post_code
+"My new address is Hohenstaufenstraße 7, 70178 Stuttgart.",Hohenstaufenstraße 7:address;Stuttgart:city;70178:post_code
+"Please change my records to Siegfriedstraße 15, 67059 Ludwigshafen.",Siegfriedstraße 15:address;Ludwigshafen:city;67059:post_code
+"I’ve relocated to Ottostraße 10, 80333 Munich.",Ottostraße 10:address;Munich:city;80333:post_code
+"My new address is Lilli-Palmer-Straße 4, 80639 Munich.",Lilli-Palmer-Straße 4:address;Munich:city;80639:post_code
+"My address has changed to Theodor-Heuss-Platz 7, 70174 Stuttgart.",Theodor-Heuss-Platz 7:address;Stuttgart:city;70174:post_code
+"I’ve moved to Quedlinburger Str. 20, 13055 Berlin.",Quedlinburger Str. 20:address;Berlin:city;13055:post_code
+"Please change my address to Dorotheenstraße 3, 10117 Berlin.",Dorotheenstraße 3:address;Berlin:city;10117:post_code
+"My new address is Prinzregentenstraße 25, 81675 Munich.",Prinzregentenstraße 25:address;Munich:city;81675:post_code
+"Please update my address to Wilhelmstraße 7, 66111 Saarbrücken.",Wilhelmstraße 7:address;Saarbrücken:city;66111:post_code
+"I’ve moved to Bertha-von-Suttner-Platz 10, 14467 Potsdam.",Bertha-von-Suttner-Platz 10:address;Potsdam:city;14467:post_code
+"My new address is Brüderstraße 15, 66111 Saarbrücken.",Brüderstraße 15:address;Saarbrücken:city;66111:post_code
+"Please update my address to Bülowstraße 10, 10783 Berlin.",Bülowstraße 10:address;Berlin:city;10783:post_code
+"My address is now Georgenstraße 25, 89073 Ulm.",Georgenstraße 25:address;Ulm:city;89073:post_code
+"I’ve relocated to Ostring 10, 59065 Hamm.",Ostring 10:address;Hamm:city;59065:post_code
+"Please change my address to Theresienstraße 12, 80333 Munich.",Theresienstraße 12:address;Munich:city;80333:post_code
+"I’ve moved to Seestraße 45, 13585 Berlin.",Seestraße 45:address;Berlin:city;13585:post_code
+"My new address is Rathausstraße 8, 13127 Berlin.",Rathausstraße 8:address;Berlin:city;13127:post_code
+"Please change my records to Dornbuschstraße 10, 60316 Frankfurt.",Dornbuschstraße 10:address;Frankfurt:city;60316:post_code
+"I now live at Salzufer 17, 10553 Berlin.",Salzufer 17:address;Berlin:city;10553:post_code
+"My new address is Neubrandenburger Str. 15, 10405 Berlin.",Neubrandenburger Str. 15:address;Berlin:city;10405:post_code
+"Please change my address to Kölner Str. 22, 51149 Cologne.",Kölner Str. 22:address;Cologne:city;51149:post_code
+"I’ve moved to Jakobstraße 19, 10247 Berlin.",Jakobstraße 19:address;Berlin:city;10247:post_code
+"My new address is Kirchstraße 5, 40215 Düsseldorf.",Kirchstraße 5:address;Düsseldorf:city;40215:post_code
+"Please update my address to An den Eichen 6, 60322 Frankfurt.",An den Eichen 6:address;Frankfurt:city;60322:post_code
+"I have moved to Kopenhagener Str. 9, 13355 Berlin.",Kopenhagener Str. 9:address;Berlin:city;13355:post_code
+"My new address is Heiligengeiststraße 14, 24103 Kiel.",Heiligengeiststraße 14:address;Kiel:city;24103:post_code
+"Please change my address to Bismarckstraße 22, 10627 Berlin.",Bismarckstraße 22:address;Berlin:city;10627:post_code
+"I’ve relocated to Maxstraße 4, 80333 Munich.",Maxstraße 4:address;Munich:city;80333:post_code
+"Please update my address to Feldstraße 11, 22765 Hamburg.",Feldstraße 11:address;Hamburg:city;22765:post_code
+"My new address is Mühlenstraße 8, 22087 Hamburg.",Mühlenstraße 8:address;Hamburg:city;22087:post_code
+"I’ve moved to Kaiserstraße 12, 76133 Karlsruhe.",Kaiserstraße 12:address;Karlsruhe:city;76133:post_code
+"Please change my address to Gneisenaustraße 14, 10961 Berlin.",Gneisenaustraße 14:address;Berlin:city;10961:post_code
+"My address is now Gerhardstraße 5, 80802 Munich.",Gerhardstraße 5:address;Munich:city;80802:post_code
+"I’ve relocated to Schönebergstraße 7, 12157 Berlin.",Schönebergstraße 7:address;Berlin:city;12157:post_code
+"Please update my records to Stephanstraße 8, 58095 Hagen.",Stephanstraße 8:address;Hagen:city;58095:post_code
+"I’ve moved to Rosenstraße 13, 10115 Berlin.",Rosenstraße 13:address;Berlin:city;10115:post_code
+"My new address is Albertstraße 7, 76137 Karlsruhe.",Albertstraße 7:address;Karlsruhe:city;76137:post_code
+"Please update my address to Am Neuen Wall 10, 20457 Hamburg.",Am Neuen Wall 10:address;Hamburg:city;20457:post_code
+"I now live at Hohenstaufenstraße 8, 70174 Stuttgart.",Hohenstaufenstraße 8:address;Stuttgart:city;70174:post_code
+"My new address is Grüner Weg 15, 50931 Köln.",Grüner Weg 15:address;Köln:city;50931:post_code
+"Please change my address to Lindenallee 3, 65189 Wiesbaden.",Lindenallee 3:address;Wiesbaden:city;65189:post_code
+"Please change my address to Fischmarkt 6, 20457 Hamburg.",Fischmarkt 6:address;Hamburg:city;20457:post_code
+"I have moved to Langenfeldstraße 17, 40764 Düsseldorf.",Langenfeldstraße 17:address;Düsseldorf:city;40764:post_code
+"Please update my address to Heinrichstraße 19, 04177 Leipzig.",Heinrichstraße 19:address;Leipzig:city;04177:post_code
+"My new address is Südstadtstraße 22, 68167 Mannheim.",Südstadtstraße 22:address;Mannheim:city;68167:post_code
+"I’ve relocated to Friedrich-Ebert-Straße 24, 14469 Potsdam.",Friedrich-Ebert-Straße 24:address;Potsdam:city;14469:post_code
+"Please update my records to Norderstraße 17, 28215 Bremen.",Norderstraße 17:address;Bremen:city;28215:post_code
+"I now live at Albrechtstraße 6, 79106 Freiburg.",Albrechtstraße 6:address;Freiburg:city;79106:post_code
+"Please change my address to Hauptstraße 10, 65812 Bad Homburg.",Hauptstraße 10:address;Bad Homburg:city;65812:post_code
+"I have moved to Ostring 25, 44135 Dortmund.",Ostring 25:address;Dortmund:city;44135:post_code
+"My new address is Bismarkstraße 35, 65185 Wiesbaden.",Bismarkstraße 35:address;Wiesbaden:city;65185:post_code
+"I’ve relocated to Hoher Weg 9, 23683 Scharbeutz.",Hoher Weg 9:address;Scharbeutz:city;23683:post_code
+"Please update my address to Münsterstraße 11, 30173 Hannover.",Münsterstraße 11:address;Hannover:city;30173:post_code
+"I have moved to Jahnstraße 3, 76530 Baden-Baden.",Jahnstraße 3:address;Baden-Baden:city;76530:post_code
+"Please change my address to Steinstraße 22, 33602 Bielefeld.",Steinstraße 22:address;Bielefeld:city;33602:post_code
+"I’ve relocated to Kastanienstraße 13, 41747 Viersen.",Kastanienstraße 13:address;Viersen:city;41747:post_code
+"Please update my records to Kornstraße 6, 80331 Munich.",Kornstraße 6:address;Munich:city;80331:post_code
+"I now live at Beethovenstraße 16, 60325 Frankfurt.",Beethovenstraße 16:address;Frankfurt:city;60325:post_code
+"My new address is Weidstraße 8, 68219 Mannheim.",Weidstraße 8:address;Mannheim:city;68219:post_code
+"I’ve moved to Gartenstraße 4, 20249 Hamburg.",Gartenstraße 4:address;Hamburg:city;20249:post_code
+"Please change my address to Freiberger Straße 25, 01067 Dresden.",Freiberger Straße 25:address;Dresden:city;01067:post_code
+"I have relocated to Kaiserstraße 5, 76133 Karlsruhe.",Kaiserstraße 5:address;Karlsruhe:city;76133:post_code
+"Please update my address to Margarethenstraße 3, 12103 Berlin.",Margarethenstraße 3:address;Berlin:city;12103:post_code
+"I now live at Märkische Straße 12, 15806 Zossen.",Märkische Straße 12:address;Zossen:city;15806:post_code
+"I’ve moved to Hauptstraße 20, 65929 Frankfurt.",Hauptstraße 20:address;Frankfurt:city;65929:post_code
+"My new address is 99084 Erfurt at Bahnhofstraße 7.",Bahnhofstraße 7:address;Erfurt:city;99084:post_code
+"Please change my address to Müllerstraße 14, 13435 Berlin.",Müllerstraße 14:address;Berlin:city;13435:post_code
+"I’ve relocated to 21035 Hamburg at Lindenstraße 23.",Lindenstraße 23:address;Hamburg:city;21035:post_code
+"My matriculation number is 1234567, and I want to register for Introduction to Machine Learning.",1234567:matriculation_number;Introduction to Machine Learning:course_name
+"I am enrolled with matriculation number 2345678, and need to register for Advanced Data Structures.",2345678:matriculation_number;Advanced Data Structures:course_name
+"Register me for Fundamentals of Computer Networks. My matriculation number is 3456789.",3456789:matriculation_number;Fundamentals of Computer Networks:course_name
+"I want to sign up for Cloud Computing Basics. My matriculation number is 4567890.",4567890:matriculation_number;Cloud Computing Basics:course_name
+"Please add me to the Advanced Software Engineering exam, with matriculation number 5678901.",5678901:matriculation_number;Advanced Software Engineering:course_name
+"I need to take the exam for Quantum Computing Fundamentals. My matriculation number is 6789012.",6789012:matriculation_number;Quantum Computing Fundamentals:course_name
+"My matriculation number is 7890123, and I’d like to register for Digital Signal Processing.",7890123:matriculation_number;Digital Signal Processing:course_name
+"Enroll me for Computer Graphics Techniques. My matriculation number is 8901234.",8901234:matriculation_number;Computer Graphics Techniques:course_name
+"I am matriculated as 9012345, and wish to take the course on Robotics and Automation.",9012345:matriculation_number;Robotics and Automation:course_name
+"Sign me up for Artificial Neural Networks, with matriculation number 1234567.",1234567:matriculation_number;Artificial Neural Networks:course_name
+"I’d like to register for Blockchain Technologies. My matriculation number is 2345678.",2345678:matriculation_number;Blockchain Technologies:course_name
+"My matriculation number is 3456789, and I want to take the Web Application Development exam.",3456789:matriculation_number;Web Application Development:course_name
+"Register me for Ethical Hacking and Cybersecurity. My matriculation number is 4567890.",4567890:matriculation_number;Ethical Hacking and Cybersecurity:course_name
+"I need to join the exam for Big Data Analytics. My matriculation number is 5678901.",5678901:matriculation_number;Big Data Analytics:course_name
+"Enroll me in Computational Biology. My matriculation number is 6789012.",6789012:matriculation_number;Computational Biology:course_name
+"Please register me for Software Testing Methods, with matriculation number 7890123.",7890123:matriculation_number;Software Testing Methods:course_name
+"I am enrolled as 8901234, and wish to take Embedded Systems Design.",8901234:matriculation_number;Embedded Systems Design:course_name
+"My matriculation number is 9012345, and I want to register for Advanced Cryptography.",9012345:matriculation_number;Advanced Cryptography:course_name
+"Sign me up for Computer Vision Techniques, with matriculation number 1234567.",1234567:matriculation_number;Computer Vision Techniques:course_name
+"Register me for Fundamentals of Deep Learning. My matriculation number is 2345678.",2345678:matriculation_number;Fundamentals of Deep Learning:course_name
+"I’d like to enroll in Mobile Application Development. My matriculation number is 3456789.",3456789:matriculation_number;Mobile Application Development:course_name
+"My matriculation number is 4567890, and I want to take Software Architecture.",4567890:matriculation_number;Software Architecture:course_name
+"Enroll me for Internet of Things Basics. My matriculation number is 5678901.",5678901:matriculation_number;Internet of Things Basics:course_name
+"Please register me for Game Development Concepts. My matriculation number is 6789012.",6789012:matriculation_number;Game Development Concepts:course_name
+"I am matriculated as 7890123, and need to take Advanced Operating Systems.",7890123:matriculation_number;Advanced Operating Systems:course_name
+"My matriculation number is 8901234, and I’d like to register for Parallel Computing.",8901234:matriculation_number;Parallel Computing:course_name
+"Sign me up for Data Visualization Techniques. My matriculation number is 9012345.",9012345:matriculation_number;Data Visualization Techniques:course_name
+"I’d like to enroll in Advanced Mobile Networks. My matriculation number is 1234567.",1234567:matriculation_number;Advanced Mobile Networks:course_name
+"My matriculation number is 2345678, and I want to take the course on Computational Linguistics.",2345678:matriculation_number;Computational Linguistics:course_name
+"Register me for Real-Time Systems Design. My matriculation number is 3456789.",3456789:matriculation_number;Real-Time Systems Design:course_name
+"I need to join the exam for Bioinformatics Basics. My matriculation number is 4567890.",4567890:matriculation_number;Bioinformatics Basics:course_name
+"Please enroll me in Natural Language Processing. My matriculation number is 5678901.",5678901:matriculation_number;Natural Language Processing:course_name
+"My matriculation number is 6789012, and I’d like to take Distributed Systems.",6789012:matriculation_number;Distributed Systems:course_name
+"I want to register for Algorithms in Machine Learning. My matriculation number is 7890123.",7890123:matriculation_number;Algorithms in Machine Learning:course_name
+"Enroll me in Digital Forensics. My matriculation number is 8901234.",8901234:matriculation_number;Digital Forensics:course_name
+"My matriculation number is 9012345, and I want to register for System Security.",9012345:matriculation_number;System Security:course_name
+"Please add me to the exam for Advanced Cloud Architecture. My matriculation number is 1234567.",1234567:matriculation_number;Advanced Cloud Architecture:course_name
+"I want to take the Introduction to Artificial Intelligence exam. My matriculation number is 2345678.",2345678:matriculation_number;Introduction to Artificial Intelligence:course_name
+"Register me for Advanced Data Analysis. My matriculation number is 3456789.",3456789:matriculation_number;Advanced Data Analysis:course_name
+"I’d like to enroll in Knowledge Representation. My matriculation number is 4567890.",4567890:matriculation_number;Knowledge Representation:course_name
+"Sign me up for Human-Computer Interaction. My matriculation number is 5678901.",5678901:matriculation_number;Human-Computer Interaction:course_name
+"I am matriculated as 6789012, and want to register for Advanced Programming Languages.",6789012:matriculation_number;Advanced Programming Languages:course_name
+Update my enrollment to include Cloud Security Fundamentals. My matriculation number is 7890123.,7890123:matriculation_number;Cloud Security Fundamentals:course_name
+Enroll me in Computational Mathematics. My matriculation number is 8901234.,8901234:matriculation_number;Computational Mathematics:course_name
+Register me for Augmented Reality Development. My matriculation number is 9012345.,9012345:matriculation_number;Augmented Reality Development:course_name
+My matriculation number is 1234567 and I’d like to take the Advanced Data Mining course.,1234567:matriculation_number;Advanced Data Mining:course_name
+I need to sign up for Programming for Data Science. My matriculation number is 2345678.,2345678:matriculation_number;Programming for Data Science:course_name
+Add me to the enrollment list for Advanced Web Development. My matriculation number is 3456789.,3456789:matriculation_number;Advanced Web Development:course_name
+I am registered under matriculation number 1234567 and would like to take Advanced Molecular Biology.,1234567:matriculation_number;Advanced Molecular Biology:course_name
+Enroll me for the History of Renaissance Art exam my registration number is 2345678.,2345678:matriculation_number;History of Renaissance Art:course_name
+My student ID is 3456789 and I wish to register for Financial Accounting.,3456789:matriculation_number;Financial Accounting:course_name
+Sign me up for Fundamentals of Philosophy my student number is 4567890.,4567890:matriculation_number;Fundamentals of Philosophy:course_name
+I’d like to join the Organic Chemistry lab under student ID 5678901.,5678901:matriculation_number;Organic Chemistry:course_name
+Please add me to the Sociology of Gender course my matriculation number is 6789012.,6789012:matriculation_number;Sociology of Gender:course_name
+My registration ID is 7890123 and I want to register for Music Composition.,7890123:matriculation_number;Music Composition:course_name
+I am enrolled under student number 8901234 and wish to take Civil Engineering Structures.,8901234:matriculation_number;Civil Engineering Structures:course_name
+Register me for Environmental Policy Analysis with matriculation number 9012345.,9012345:matriculation_number;Environmental Policy Analysis:course_name
+I would like to take the course Introductory Psychology my matriculation number is 1123456.,1123456:matriculation_number;Introductory Psychology:course_name
+My student ID is 1234567 and I want to register for Classical Mechanics.,1234567:matriculation_number;Classical Mechanics:course_name
+I’d like to enroll in Advanced Econometrics under matriculation number 2345678.,2345678:matriculation_number;Advanced Econometrics:course_name
+Sign me up for World Literature my registration number is 3456789.,3456789:matriculation_number;World Literature:course_name
+With matriculation ID 4567890 I would like to take Genetics and Evolution.,4567890:matriculation_number;Genetics and Evolution:course_name
+Register me for Modern Political Theory my student ID is 5678901.,5678901:matriculation_number;Modern Political Theory:course_name
+I want to take the course Principles of Marketing my matriculation number is 6789012.,6789012:matriculation_number;Principles of Marketing:course_name
+Please enroll me in the course Quantum Physics my ID is 7890123.,7890123:matriculation_number;Quantum Physics:course_name
+My student number is 8901234 and I’d like to register for Database Systems.,8901234:matriculation_number;Database Systems:course_name
+I wish to enroll in Environmental Ethics under matriculation ID 9012345.,9012345:matriculation_number;Environmental Ethics:course_name
+"Update my enrollment to include Cloud Security Fundamentals. My matriculation number is 7890123.",7890123:matriculation_number;Cloud Security Fundamentals:course_name
+"Enroll me in Computational Mathematics. My matriculation number is 8901234.",8901234:matriculation_number;Computational Mathematics:course_name
+"Register me for Augmented Reality Development. My matriculation number is 9012345.",9012345:matriculation_number;Augmented Reality Development:course_name
+"My matriculation number is 1234567, and I’d like to take the Advanced Data Mining course.",1234567:matriculation_number;Advanced Data Mining:course_name
+"I need to sign up for Programming for Data Science. My matriculation number is 2345678.",2345678:matriculation_number;Programming for Data Science:course_name
+"Add me to the enrollment list for Advanced Web Development. My matriculation number is 3456789.",3456789:matriculation_number;Advanced Web Development:course_name
+"I am registered under matriculation number 1234567, and would like to take Advanced Molecular Biology.",1234567:matriculation_number;Advanced Molecular Biology:course_name
+"Enroll me for the History of Renaissance Art exam, my registration number is 2345678.",2345678:matriculation_number;History of Renaissance Art:course_name
+"My student ID is 3456789, and I wish to register for Financial Accounting.",3456789:matriculation_number;Financial Accounting:course_name
+"Sign me up for Fundamentals of Philosophy, my student number is 4567890.",4567890:matriculation_number;Fundamentals of Philosophy:course_name
+"I’d like to join the Organic Chemistry lab under student ID 5678901.",5678901:matriculation_number;Organic Chemistry:course_name
+"Please add me to the Sociology of Gender course, my matriculation number is 6789012.",6789012:matriculation_number;Sociology of Gender:course_name
+"My registration ID is 7890123, and I want to register for Music Composition.",7890123:matriculation_number;Music Composition:course_name
+"I am enrolled under student number 8901234, and wish to take Civil Engineering Structures.",8901234:matriculation_number;Civil Engineering Structures:course_name
+"Register me for Environmental Policy Analysis, with matriculation number 9012345.",9012345:matriculation_number;Environmental Policy Analysis:course_name
+"I would like to take the course Introductory Psychology, my matriculation number is 1123456.",1123456:matriculation_number;Introductory Psychology:course_name
+"My student ID is 1234567, and I want to register for Classical Mechanics.",1234567:matriculation_number;Classical Mechanics:course_name
+"I’d like to enroll in Advanced Econometrics under matriculation number 2345678.",2345678:matriculation_number;Advanced Econometrics:course_name
+"Sign me up for World Literature, my registration number is 3456789.",3456789:matriculation_number;World Literature:course_name
+"With matriculation ID 4567890, I would like to take Genetics and Evolution.",4567890:matriculation_number;Genetics and Evolution:course_name
+"Register me for Modern Political Theory, my student ID is 5678901.",5678901:matriculation_number;Modern Political Theory:course_name
+"I want to take the course Principles of Marketing, my matriculation number is 6789012.",6789012:matriculation_number;Principles of Marketing:course_name
+"Please enroll me in the course Quantum Physics, my ID is 7890123.",7890123:matriculation_number;Quantum Physics:course_name
+"My student number is 8901234, and I’d like to register for Database Systems.",8901234:matriculation_number;Database Systems:course_name
+"I wish to enroll in Environmental Ethics under matriculation ID 9012345.",9012345:matriculation_number;Environmental Ethics:course_name
+"Add me to the Intro to Graphic Design course, my matriculation number is 1123456.",1123456:matriculation_number;Intro to Graphic Design:course_name
+"I am under student number 1234567, and would like to take Human Anatomy.",1234567:matriculation_number;Human Anatomy:course_name
+"Sign me up for Advanced Differential Equations, my ID is 2345678.",2345678:matriculation_number;Advanced Differential Equations:course_name
+"I’m registered as 3456789, and want to enroll in Modern Art History.",3456789:matriculation_number;Modern Art History:course_name
+"Please add me to Applied Statistics, my matriculation ID is 4567890.",4567890:matriculation_number;Applied Statistics:course_name
+"My student ID is 5678901, and I’d like to take Criminal Law.",5678901:matriculation_number;Criminal Law:course_name
+"Enroll me in the Contemporary Sociology course, under matriculation number 6789012.",6789012:matriculation_number;Contemporary Sociology:course_name
+"I want to take Organic Chemistry Lab, my ID is 7890123.",7890123:matriculation_number;Organic Chemistry Lab:course_name
+"Add me to Fundamentals of Programming, my matriculation number is 8901234.",8901234:matriculation_number;Fundamentals of Programming:course_name
+"With registration number 9012345, I’d like to take Introduction to Astronomy.",9012345:matriculation_number;Introduction to Astronomy:course_name
+"Register me for Advanced Robotics, my ID is 1123456.",1123456:matriculation_number;Advanced Robotics:course_name
+"I am a student with matriculation number 1234567, and I’d like to register for Marine Biology.",1234567:matriculation_number;Marine Biology:course_name
+"Please enroll me in Modern Philosophy, my matriculation ID is 2345678.",2345678:matriculation_number;Modern Philosophy:course_name
+"With student ID 3456789, I want to take Microeconomic Theory.",3456789:matriculation_number;Microeconomic Theory:course_name
+"Sign me up for History of Ancient Civilizations, my ID is 4567890.",4567890:matriculation_number;History of Ancient Civilizations:course_name
+"I want to register for Advanced Software Engineering, my student number is 5678901.",5678901:matriculation_number;Advanced Software Engineering:course_name
+"My registration number is 6789012, and I’d like to join Clinical Psychology.",6789012:matriculation_number;Clinical Psychology:course_name
+"Please add me to the course Advanced Organic Chemistry, my ID is 7890123.",7890123:matriculation_number;Advanced Organic Chemistry:course_name
+"I’d like to take Business Analytics, with student ID 8901234.",8901234:matriculation_number;Business Analytics:course_name
+"Enroll me in Shakespearean Literature, my matriculation ID is 9012345.",9012345:matriculation_number;Shakespearean Literature:course_name
+"I want to join Applied Linguistics, and my matriculation number is 1123456.",1123456:matriculation_number;Applied Linguistics:course_name
+"Sign me up for Digital Signal Processing, my registration ID is 1234567.",1234567:matriculation_number;Digital Signal Processing:course_name
+"I’d like to enroll in Probability Theory, my student number is 2345678.",2345678:matriculation_number;Probability Theory:course_name
+"Please register me for Painting Techniques, my matriculation number is 3456789.",3456789:matriculation_number;Painting Techniques:course_name
+"Add me to Environmental Management, my ID is 4567890.",4567890:matriculation_number;Environmental Management:course_name
+"I want to take Industrial Design, my student ID is 5678901.",5678901:matriculation_number;Industrial Design:course_name
+"My matriculation number is 6789012, and I’d like to join Public Policy Analysis.",6789012:matriculation_number;Public Policy Analysis:course_name
+"Please register me for Biochemistry Lab, with student ID 7890123.",7890123:matriculation_number;Biochemistry Lab:course_name
+"Sign me up for Machine Learning, my matriculation ID is 8901234.",8901234:matriculation_number;Machine Learning:course_name
+"With registration ID 9012345, I want to take Introduction to Architecture.",9012345:matriculation_number;Introduction to Architecture:course_name
+"Enroll me in Ethics in Medicine, my student number is 1123456.",1123456:matriculation_number;Ethics in Medicine:course_name
+"I would like to take Industrial Automation, and my matriculation number is 1234567.",1234567:matriculation_number;Industrial Automation:course_name
+"Please add me to the History of Jazz course, under ID 2345678.",2345678:matriculation_number;History of Jazz:course_name
+"My student number is 3456789, and I want to register for Data Structures.",3456789:matriculation_number;Data Structures:course_name
+"I want to enroll in Behavioral Neuroscience, my ID is 4567890.",4567890:matriculation_number;Behavioral Neuroscience:course_name
+"Add me to Advanced Calculus, my matriculation number is 5678901.",5678901:matriculation_number;Advanced Calculus:course_name
+"Enroll me in the Marketing Strategies course, my registration ID is 6789012.",6789012:matriculation_number;Marketing Strategies:course_name
+"Sign me up for Theoretical Physics, my ID is 7890123.",7890123:matriculation_number;Theoretical Physics:course_name
+"I wish to join Creative Writing, my matriculation number is 8901234.",8901234:matriculation_number;Creative Writing:course_name
+"Please register me for General Botany, my student number is 9012345.",9012345:matriculation_number;General Botany:course_name
+"With ID 1123456, I’d like to enroll in Introduction to Cybersecurity.",1123456:matriculation_number;Introduction to Cybersecurity:course_name
+"My registration number is 1234567, and I’d like to join Economic Development.",1234567:matriculation_number;Economic Development:course_name
+"I want to take International Relations, my matriculation number is 2345678.",2345678:matriculation_number;International Relations:course_name
+"Add me to Differential Equations, my student ID is 3456789.",3456789:matriculation_number;Differential Equations:course_name
+"Enroll me in Modern Genetics, my registration ID is 4567890.",4567890:matriculation_number;Modern Genetics:course_name
+"Sign me up for Cultural Anthropology, my student number is 5678901.",5678901:matriculation_number;Cultural Anthropology:course_name
+"I wish to register for Thermodynamics, my matriculation number is 6789012.",6789012:matriculation_number;Thermodynamics:course_name
+"My ID is 7890123, and I’d like to join Public Health.",7890123:matriculation_number;Public Health:course_name
+"Please enroll me in Artificial Intelligence, with registration ID 8901234.",8901234:matriculation_number;Artificial Intelligence:course_name
+"Register me for Urban Development, my matriculation ID is 9012345.",9012345:matriculation_number;Urban Development:course_name
+"I’d like to take Philosophy of Science, my ID is 1123456.",1123456:matriculation_number;Philosophy of Science:course_name
+"Sign me up for Creative Advertising, my student number is 1234567.",1234567:matriculation_number;Creative Advertising:course_name
+"Enroll me in Marine Ecology, my matriculation number is 2345678.",2345678:matriculation_number;Marine Ecology:course_name
+"I am under student ID 3456789, and want to take Macroeconomics.",3456789:matriculation_number;Macroeconomics:course_name
+"Add me to Neural Networks, my registration number is 4567890.",4567890:matriculation_number;Neural Networks:course_name
+"My matriculation number is 5678901, and I’d like to enroll in Advanced Chemistry.",5678901:matriculation_number;Advanced Chemistry:course_name
+"Please register me for History of Cinema, my student number is 6789012.",6789012:matriculation_number;History of Cinema:course_name
+"With ID 7890123, I’d like to take Business Law.",7890123:matriculation_number;Business Law:course_name
+"I need to deregister from Advanced Molecular Biology, my matriculation number is 1234567.",1234567:matriculation_number;Advanced Molecular Biology:course_name
+"Please remove me from the exam for Environmental Science, under matriculation ID 2345678.",2345678:matriculation_number;Environmental Science:course_name
+"I’d like to cancel my registration for Modern History, with student number 3456789.",3456789:matriculation_number;Modern History:course_name
+"My registration number is 4567890, please deregister me from Organic Chemistry.",4567890:matriculation_number;Organic Chemistry:course_name
+"I am no longer attending Thermodynamics, my ID is 5678901.",5678901:matriculation_number;Thermodynamics:course_name
+"Kindly remove me from the Neural Networks course, my matriculation number is 6789012.",6789012:matriculation_number;Neural Networks:course_name
+"I won’t take the exam for Business Analytics anymore, my student ID is 7890123.",7890123:matriculation_number;Business Analytics:course_name
+"Please cancel my participation in Genetics Lab, under ID 8901234.",8901234:matriculation_number;Genetics Lab:course_name
+"I wish to withdraw from Philosophy of Mind, with matriculation number 9012345.",9012345:matriculation_number;Philosophy of Mind:course_name
+"I’d like to deregister from Advanced Data Structures, my ID is 1123456.",1123456:matriculation_number;Advanced Data Structures:course_name
+"Remove me from the Microeconomics exam, with student number 1234567.",1234567:matriculation_number;Microeconomics:course_name
+"I want to cancel my enrollment in Human Anatomy, my ID is 2345678.",2345678:matriculation_number;Human Anatomy:course_name
+"Please withdraw me from Quantum Mechanics, using matriculation number 3456789.",3456789:matriculation_number;Quantum Mechanics:course_name
+"I’d like to be removed from Sociology of Culture exam, my registration number is 4567890.",4567890:matriculation_number;Sociology of Culture:course_name
+"Please cancel my registration for Creative Writing, my student ID is 5678901.",5678901:matriculation_number;Creative Writing:course_name
+"I am dropping out of the Public Health course, my matriculation ID is 6789012.",6789012:matriculation_number;Public Health:course_name
+"I won’t attend the Political Science exam anymore, my ID is 7890123.",7890123:matriculation_number;Political Science:course_name
+"My registration for Software Engineering needs to be canceled, under ID 8901234.",8901234:matriculation_number;Software Engineering:course_name
+"Please deregister me from History of Ancient Civilizations, my ID is 9012345.",9012345:matriculation_number;History of Ancient Civilizations:course_name
+"Withdraw my registration for Advanced Marketing, my student number is 1123456.",1123456:matriculation_number;Advanced Marketing:course_name
+"Cancel my enrollment for Ecology, my matriculation number is 1234567.",1234567:matriculation_number;Ecology:course_name
+"I am no longer taking the exam in Machine Learning, my ID is 2345678.",2345678:matriculation_number;Machine Learning:course_name
+"Please cancel my registration for Thermodynamics, my student ID is 3456789.",3456789:matriculation_number;Thermodynamics:course_name
+"I would like to withdraw from Introduction to Cybersecurity, my matriculation number is 4567890.",4567890:matriculation_number;Introduction to Cybersecurity:course_name
+"Remove me from the Advanced Psychology course, under registration ID 5678901.",5678901:matriculation_number;Advanced Psychology:course_name
+"I’d like to deregister from the Urban Planning exam, my matriculation number is 6789012.",6789012:matriculation_number;Urban Planning:course_name
+"Cancel my registration for Biotechnology, using my student ID 7890123.",7890123:matriculation_number;Biotechnology:course_name
+"I want to withdraw from Global Economics, under matriculation number 8901234.",8901234:matriculation_number;Global Economics:course_name
+"Please remove my name from the exam in Differential Calculus, with ID 9012345.",9012345:matriculation_number;Differential Calculus:course_name
+"I won’t attend the Graphic Design course anymore, my ID is 1123456.",1123456:matriculation_number;Graphic Design:course_name
+"Cancel my enrollment in Anthropology, my matriculation number is 1234567.",1234567:matriculation_number;Anthropology:course_name
+"I am no longer sitting for Statistical Analysis, my student ID is 2345678.",2345678:matriculation_number;Statistical Analysis:course_name
+"Withdraw me from Organic Chemistry Lab, under matriculation number 3456789.",3456789:matriculation_number;Organic Chemistry Lab:course_name
+"I’d like to drop out of the Marketing Strategies course, my registration number is 4567890.",4567890:matriculation_number;Marketing Strategies:course_name
+"Cancel my participation in Advanced Robotics, with matriculation number 5678901.",5678901:matriculation_number;Advanced Robotics:course_name
+"Please remove me from the Cognitive Psychology exam, under ID 6789012.",6789012:matriculation_number;Cognitive Psychology:course_name
+"I want to cancel my attendance in Marine Biology, my student ID is 7890123.",7890123:matriculation_number;Marine Biology:course_name
+"Deregister me from Computational Linguistics, my matriculation number is 8901234.",8901234:matriculation_number;Computational Linguistics:course_name
+"I need to drop the Leadership course, my ID is 9012345.",9012345:matriculation_number;Leadership:course_name
+"Remove my registration for the International Law exam, my student ID is 1123456.",1123456:matriculation_number;International Law:course_name
+"Please withdraw my name from the Public Administration course, with matriculation number 1234567.",1234567:matriculation_number;Public Administration:course_name
+"I need to deregister from Advanced Quantum Physics, my matriculation number is 1234567.",1234567:matriculation_number;Advanced Quantum Physics:course_name
+"Please cancel my enrollment for English Literature, using my ID 2345678.",2345678:matriculation_number;English Literature:course_name
+"I’d like to withdraw from Advanced Machine Learning, my student number is 3456789.",3456789:matriculation_number;Advanced Machine Learning:course_name
+"Remove me from the Biomedical Engineering course, under registration ID 4567890.",4567890:matriculation_number;Biomedical Engineering:course_name
+"I want to cancel my exam for Data Science Principles, my ID is 5678901.",5678901:matriculation_number;Data Science Principles:course_name
+"Please remove my registration for the Art History course, under matriculation number 6789012.",6789012:matriculation_number;Art History:course_name
+"Cancel my enrollment in Financial Accounting, my student ID is 7890123.",7890123:matriculation_number;Financial Accounting:course_name
+"Withdraw me from Political Sociology, my matriculation number is 8901234.",8901234:matriculation_number;Political Sociology:course_name
+"I’d like to drop out of Theoretical Physics, under registration ID 9012345.",9012345:matriculation_number;Theoretical Physics:course_name
+"I need to cancel my registration for Structural Engineering, my ID is 1123456.",1123456:matriculation_number;Structural Engineering:course_name
+"Please deregister me from Neurobiology, my matriculation number is 1234567.",1234567:matriculation_number;Neurobiology:course_name
+"I want to withdraw from International Relations, my ID is 2345678.",2345678:matriculation_number;International Relations:course_name
+"Remove my name from the Software Testing exam, with student number 3456789.",3456789:matriculation_number;Software Testing:course_name
+"Cancel my attendance for Organic Chemistry Lab, my matriculation number is 4567890.",4567890:matriculation_number;Organic Chemistry Lab:course_name
+"Please cancel my registration for Cultural Anthropology, using ID 5678901.",5678901:matriculation_number;Cultural Anthropology:course_name
+"Withdraw me from Modern Art Studies, under registration ID 6789012.",6789012:matriculation_number;Modern Art Studies:course_name
+"I am dropping the Digital Marketing course, my student number is 7890123.",7890123:matriculation_number;Digital Marketing:course_name
+"Remove me from Environmental Law, under matriculation number 8901234.",8901234:matriculation_number;Environmental Law:course_name
+"Cancel my registration for Applied Physics, my ID is 9012345.",9012345:matriculation_number;Applied Physics:course_name
+"I want to deregister from Principles of Microeconomics, using matriculation number 1123456.",1123456:matriculation_number;Principles of Microeconomics:course_name
+"Please withdraw me from Genetics Lab, my ID is 1234567.",1234567:matriculation_number;Genetics Lab:course_name
+"Remove me from Advanced Algorithms course, with matriculation ID 2345678.",2345678:matriculation_number;Advanced Algorithms:course_name
+"I need to cancel my registration for Urban Planning, my student ID is 3456789.",3456789:matriculation_number;Urban Planning:course_name
+"Withdraw me from Industrial Design, under matriculation number 4567890.",4567890:matriculation_number;Industrial Design:course_name
+"Please deregister me from the Advanced Java Programming course, my ID is 5678901.",5678901:matriculation_number;Advanced Java Programming:course_name
+"I’d like to drop out of the Philosophy of Technology exam, my student ID is 6789012.",6789012:matriculation_number;Philosophy of Technology:course_name
+"Cancel my enrollment for Biochemistry, my matriculation number is 7890123.",7890123:matriculation_number;Biochemistry:course_name
+"I’m withdrawing from the Introduction to Psychology course, my ID is 8901234.",8901234:matriculation_number;Introduction to Psychology:course_name
+"Remove my name from the Engineering Mechanics course, with ID 9012345.",9012345:matriculation_number;Engineering Mechanics:course_name
+"Please withdraw my participation in Public Speaking, my student ID is 1123456.",1123456:matriculation_number;Public Speaking:course_name
+"I want to deregister from Human Resource Management, my matriculation number is 1234567.",1234567:matriculation_number;Human Resource Management:course_name
+"Cancel my registration for Physical Chemistry Lab, using ID 2345678.",2345678:matriculation_number;Physical Chemistry Lab:course_name
+"Withdraw me from Cognitive Science course, my ID is 3456789.",3456789:matriculation_number;Cognitive Science:course_name
+"Please remove me from Modern Political Theory, under matriculation number 4567890.",4567890:matriculation_number;Modern Political Theory:course_name
+"I’d like to drop out of the Data Visualization course, my student ID is 5678901.",5678901:matriculation_number;Data Visualization:course_name
+"Cancel my attendance for Advanced Linear Algebra, my matriculation number is 6789012.",6789012:matriculation_number;Advanced Linear Algebra:course_name
+"Remove my registration from World Literature, my student ID is 7890123.",7890123:matriculation_number;World Literature:course_name
+"Withdraw me from the Advanced Statistics course, under ID 8901234.",8901234:matriculation_number;Advanced Statistics:course_name
+"I want to cancel my exam in Classical Mechanics, using matriculation number 9012345.",9012345:matriculation_number;Classical Mechanics:course_name
+"Please deregister me from Introduction to Programming, my ID is 1123456.",1123456:matriculation_number;Introduction to Programming:course_name
+"I need to drop the Advanced Molecular Biology course, my ID is 1234567.",1234567:matriculation_number;Advanced Molecular Biology:course_name
+"Remove me from the Financial Mathematics exam, under registration number 2345678.",2345678:matriculation_number;Financial Mathematics:course_name
+"Withdraw my participation in Business Law, with matriculation ID 3456789.",3456789:matriculation_number;Business Law:course_name
+"Cancel my registration for Advanced Operating Systems, my ID is 4567890.",4567890:matriculation_number;Advanced Operating Systems:course_name
+"Please remove me from Advanced Robotics Lab, under student ID 5678901.",5678901:matriculation_number;Advanced Robotics Lab:course_name
+"I’d like to cancel my attendance in Forensic Science, using my matriculation number 6789012.",6789012:matriculation_number;Forensic Science:course_name
+"Withdraw me from European History, my ID is 7890123.",7890123:matriculation_number;European History:course_name
+"Remove my enrollment from Digital Signal Processing, with registration number 8901234.",8901234:matriculation_number;Digital Signal Processing:course_name
+"I want to deregister from Cloud Computing, my matriculation ID is 9012345.",9012345:matriculation_number;Cloud Computing:course_name
+"What is my status in the Advanced Quantum Mechanics exam registration, my matriculation number is 1234567.",1234567:matriculation_number;Advanced Quantum Mechanics:course_name
+"Can you check if I am registered for the Introduction to Sociology exam, my matriculation number is 2345678.",2345678:matriculation_number;Introduction to Sociology:course_name
+"I need to confirm my registration status for the Calculus II exam, my ID is 3456789.",3456789:matriculation_number;Calculus II:course_name
+"Am I successfully enrolled in the Creative Writing exam, my matriculation number is 4567890.",4567890:matriculation_number;Creative Writing:course_name
+"Please verify my registration for the Financial Accounting exam, using matriculation number 5678901.",5678901:matriculation_number;Financial Accounting:course_name
+"I would like to know my status for the exam in Microeconomics, my student number is 6789012.",6789012:matriculation_number;Microeconomics:course_name
+"Can you tell me if I am signed up for the History of Modern Art exam, my ID is 7890123.",7890123:matriculation_number;History of Modern Art:course_name
+"I want to check my enrollment in the Organic Chemistry exam, with registration number 8901234.",8901234:matriculation_number;Organic Chemistry:course_name
+"Is my name on the list for the Theoretical Computer Science exam, my matriculation ID is 9012345.",9012345:matriculation_number;Theoretical Computer Science:course_name
+"Could you confirm my registration for the Public Policy Analysis exam, my student number is 1123456.",1123456:matriculation_number;Public Policy Analysis:course_name
+"What is my registration status for the Biochemistry exam, my ID is 1234567.",1234567:matriculation_number;Biochemistry:course_name
+"Am I registered for the Neural Networks course exam, my matriculation number is 2345678.",2345678:matriculation_number;Neural Networks:course_name
+"Can you confirm if I am signed up for the Environmental Law exam, my ID is 3456789.",3456789:matriculation_number;Environmental Law:course_name
+"I want to ensure I am registered for the Advanced Algorithms exam, my matriculation number is 4567890.",4567890:matriculation_number;Advanced Algorithms:course_name
+"Can you check the status of my enrollment in the Business Analytics exam, my ID is 5678901.",5678901:matriculation_number;Business Analytics:course_name
+"I need to know if I’m signed up for the exam in Modern Political Philosophy, my student number is 6789012.",6789012:matriculation_number;Modern Political Philosophy:course_name
+"Please verify my status for the Introduction to Artificial Intelligence exam, my ID is 7890123.",7890123:matriculation_number;Introduction to Artificial Intelligence:course_name
+"Am I enrolled in the Applied Linear Algebra exam, with matriculation number 8901234.",8901234:matriculation_number;Applied Linear Algebra:course_name
+"What’s my registration status for the Quantum Field Theory exam, my ID is 9012345.",9012345:matriculation_number;Quantum Field Theory:course_name
+"Could you check if I am on the list for the Global Marketing exam, my student number is 1123456.",1123456:matriculation_number;Global Marketing:course_name
+"Is my registration confirmed for the European History exam, my matriculation number is 1234567.",1234567:matriculation_number;European History:course_name
+"Check if I am registered for the Advanced Robotics Lab, my ID is 2345678.",2345678:matriculation_number;Advanced Robotics Lab:course_name
+"Can you confirm my registration for the exam in Data Visualization, my student number is 3456789.",3456789:matriculation_number;Data Visualization:course_name
+"I want to know my status in the Cloud Computing course exam, my matriculation number is 4567890.",4567890:matriculation_number;Cloud Computing:course_name
+"Am I successfully enrolled in the Physics of Materials exam, my ID is 5678901.",5678901:matriculation_number;Physics of Materials:course_name
+"Could you check if my registration for the Ethics in Technology exam is valid, my matriculation number is 6789012.",6789012:matriculation_number;Ethics in Technology:course_name
+"Please confirm if I am signed up for the Machine Learning exam, my ID is 7890123.",7890123:matriculation_number;Machine Learning:course_name
+"Is my registration for the Advanced Statistical Methods exam complete, my matriculation number is 8901234.",8901234:matriculation_number;Advanced Statistical Methods:course_name
+"Can you check my status for the Thermodynamics exam, my ID is 9012345.",9012345:matriculation_number;Thermodynamics:course_name
+"What is my enrollment status for the French Language and Culture exam, my student number is 1123456.",1123456:matriculation_number;French Language and Culture:course_name
+"Confirm if I’m registered for the Cybersecurity course exam, my ID is 1234567.",1234567:matriculation_number;Cybersecurity:course_name
+"Could you tell me if I am enrolled in the Hydrodynamics exam, my matriculation number is 2345678.",2345678:matriculation_number;Hydrodynamics:course_name
+"Am I signed up for the Comparative Literature exam, my ID is 3456789.",3456789:matriculation_number;Comparative Literature:course_name
+"Please verify my enrollment for the Applied Chemistry Lab, my matriculation number is 4567890.",4567890:matriculation_number;Applied Chemistry Lab:course_name
+"I want to confirm my registration for the History of Philosophy exam, my ID is 5678901.",5678901:matriculation_number;History of Philosophy:course_name
+"Is my registration active for the Electrical Engineering Principles exam, my matriculation number is 6789012.",6789012:matriculation_number;Electrical Engineering Principles:course_name
+"Can you confirm if I am registered for the Probability Theory exam, my student number is 7890123.",7890123:matriculation_number;Probability Theory:course_name
+"Check the status of my enrollment in the Civil Engineering Design exam, my matriculation number is 8901234.",8901234:matriculation_number;Civil Engineering Design:course_name
+"Am I successfully signed up for the Intro to Macroeconomics exam, my ID is 9012345.",9012345:matriculation_number;Intro to Macroeconomics:course_name
+"Verify my registration status for the Introduction to Programming exam, my matriculation number is 1123456.",1123456:matriculation_number;Introduction to Programming:course_name
+"What’s my registration status for the Creative Thinking in Art exam, my ID is 1234567.",1234567:matriculation_number;Creative Thinking in Art:course_name
+"Could you confirm my enrollment for the Industrial Organization exam, my matriculation number is 2345678.",2345678:matriculation_number;Industrial Organization:course_name
+"Can you verify my status in the Advanced Macroeconomics exam, my matriculation number is 2345678.",2345678:matriculation_number;Advanced Macroeconomics:course_name
+"I need to check if I am registered for the Biophysics exam, my student ID is 3456789.",3456789:matriculation_number;Biophysics:course_name
+"Please confirm my enrollment in the Urban Planning and Development exam, my matriculation number is 4567890.",4567890:matriculation_number;Urban Planning and Development:course_name
+"Am I listed for the exam in Computational Linguistics, my ID is 5678901.",5678901:matriculation_number;Computational Linguistics:course_name
+"I want to verify my registration status for the Environmental Science exam, my student number is 6789012.",6789012:matriculation_number;Environmental Science:course_name
+"What is my enrollment status for the History of Science exam, my matriculation ID is 7890123.",7890123:matriculation_number;History of Science:course_name
+"Can you confirm if I am signed up for the Bioinformatics exam, my ID is 8901234.",8901234:matriculation_number;Bioinformatics:course_name
+"I need to know if I’m registered for the exam in Social Psychology, my matriculation number is 9012345.",9012345:matriculation_number;Social Psychology:course_name
+"Am I enrolled in the Principles of Marketing exam, my student number is 1123456.",1123456:matriculation_number;Principles of Marketing:course_name
+"Check my status for the Aerospace Engineering Basics exam, my matriculation number is 1234567.",1234567:matriculation_number;Aerospace Engineering Basics:course_name
+"Please verify my registration for the Legal and Ethical Issues in Business exam, my ID is 2345678.",2345678:matriculation_number;Legal and Ethical Issues in Business:course_name
+"Can you confirm if I am registered for the Data Structures and Algorithms exam, my matriculation number is 3456789.",3456789:matriculation_number;Data Structures and Algorithms:course_name
+"Am I signed up for the Behavioral Economics exam, my ID is 4567890.",4567890:matriculation_number;Behavioral Economics:course_name
+"I want to check my enrollment in the exam for Astrophysics, my matriculation number is 5678901.",5678901:matriculation_number;Astrophysics:course_name
+"Please confirm my registration for the International Relations Theory exam, my student number is 6789012.",6789012:matriculation_number;International Relations Theory:course_name
+"Verify if I am registered for the Molecular Genetics exam, my matriculation number is 7890123.",7890123:matriculation_number;Molecular Genetics:course_name
+"Can you check my status in the Renewable Energy Technologies exam, my ID is 8901234.",8901234:matriculation_number;Renewable Energy Technologies:course_name
+"I need confirmation about my registration for the Strategic Management exam, my matriculation number is 9012345.",9012345:matriculation_number;Strategic Management:course_name
+"What is my status for the exam in Classical Mechanics, my matriculation number is 1123456.",1123456:matriculation_number;Classical Mechanics:course_name
+"Check my registration for the Art History and Criticism exam, my ID is 1234567.",1234567:matriculation_number;Art History and Criticism:course_name
+"Please verify if I am enrolled in the Advanced Software Engineering exam, my student number is 2345678.",2345678:matriculation_number;Advanced Software Engineering:course_name
+"Can you confirm my status for the Literature of the Romantic Period exam, my matriculation number is 3456789.",3456789:matriculation_number;Literature of the Romantic Period:course_name
+"Am I successfully signed up for the exam in Political Economy, my ID is 4567890.",4567890:matriculation_number;Political Economy:course_name
+"Check if I am enrolled in the exam for Advanced Electrical Circuits, my matriculation number is 5678901.",5678901:matriculation_number;Advanced Electrical Circuits:course_name
+"Please verify my status for the Industrial Chemistry exam, my student number is 6789012.",6789012:matriculation_number;Industrial Chemistry:course_name
+"Can you confirm if I am listed for the Sustainable Urban Design exam, my matriculation number is 7890123.",7890123:matriculation_number;Sustainable Urban Design:course_name
+"Am I registered for the exam in Artificial Intelligence Ethics, my ID is 8901234.",8901234:matriculation_number;Artificial Intelligence Ethics:course_name
+"I want to check my enrollment in the Marine Biology exam, my student number is 9012345.",9012345:matriculation_number;Marine Biology:course_name
+"Please verify my status in the Sociology of Education exam, my matriculation number is 1123456.",1123456:matriculation_number;Sociology of Education:course_name
+"Can you confirm my registration for the Structural Engineering exam, my ID is 1234567.",1234567:matriculation_number;Structural Engineering:course_name
+"Am I listed for the exam in Postmodern Literature, my student number is 2345678.",2345678:matriculation_number;Postmodern Literature:course_name
+"Check my status for the Public Health and Policy exam, my matriculation number is 3456789.",3456789:matriculation_number;Public Health and Policy:course_name
+"I want to ensure my registration for the Nanotechnology Fundamentals exam, my ID is 4567890.",4567890:matriculation_number;Nanotechnology Fundamentals:course_name
+"Am I registered for the exam in Comparative Constitutional Law, my student number is 5678901.",5678901:matriculation_number;Comparative Constitutional Law:course_name
+"Please verify my enrollment for the Agricultural Economics exam, my matriculation number is 6789012.",6789012:matriculation_number;Agricultural Economics:course_name
+"What’s my registration status for the Introduction to Philosophy exam, my ID is 7890123.",7890123:matriculation_number;Introduction to Philosophy:course_name
+"Can you confirm my status in the Biomedical Engineering Principles exam, my matriculation number is 8901234.",8901234:matriculation_number;Biomedical Engineering Principles:course_name
+"Verify if I am enrolled in the History of Ancient Civilizations exam, my student number is 9012345.",9012345:matriculation_number;History of Ancient Civilizations:course_name
+"Am I signed up for the Aerodynamics course exam, my matriculation number is 1123456.",1123456:matriculation_number;Aerodynamics:course_name
+"Check if my registration for the Introduction to Cognitive Science exam is valid, my ID is 1234567.",1234567:matriculation_number;Introduction to Cognitive Science:course_name
+"Can you confirm my enrollment in the Advanced Organic Chemistry exam, my student number is 2345678.",2345678:matriculation_number;Advanced Organic Chemistry:course_name
+"I need to know my status in the Behavioral Neuroscience exam, my matriculation number is 3456789.",3456789:matriculation_number;Behavioral Neuroscience:course_name
+"What is my status in the Introduction to Sociology exam, my matriculation number is 1234567.",1234567:matriculation_number;Introduction to Sociology:course_name
+"Can you check if I’m registered for the Advanced Statistics exam, my matriculation number is 2345678.",2345678:matriculation_number;Advanced Statistics:course_name
+"I need confirmation of my registration for the Modern Physics exam, my matriculation number is 3456789.",3456789:matriculation_number;Modern Physics:course_name
+"Am I enrolled in the exam for Environmental Policy, my matriculation ID is 4567890.",4567890:matriculation_number;Environmental Policy:course_name
+"What is my exam registration status for the History of Modern Art, my ID is 5678901.",5678901:matriculation_number;History of Modern Art:course_name
+"Please verify if I’m registered for the Principles of Accounting exam, my matriculation number is 6789012.",6789012:matriculation_number;Principles of Accounting:course_name
+"Can you tell me if I’m signed up for the Clinical Pharmacology exam, my matriculation number is 7890123.",7890123:matriculation_number;Clinical Pharmacology:course_name
+"I’d like to know my status in the Advanced Calculus exam, my matriculation number is 8901234.",8901234:matriculation_number;Advanced Calculus:course_name
+"Check if I’m registered for the Robotics Fundamentals exam, my matriculation number is 9012345.",9012345:matriculation_number;Robotics Fundamentals:course_name
+"Am I listed for the International Law Principles exam, my matriculation ID is 1123456.",1123456:matriculation_number;International Law Principles:course_name
+"What’s my status in the Biochemistry Basics exam, my matriculation number is 1234567.",1234567:matriculation_number;Biochemistry Basics:course_name
+"Please confirm if I’m enrolled in the Creative Writing Techniques exam, my ID is 2345678.",2345678:matriculation_number;Creative Writing Techniques:course_name
+"Can you verify my registration for the Civil Engineering Structures exam, my matriculation number is 3456789.",3456789:matriculation_number;Civil Engineering Structures:course_name
+"I need to know if I’m registered for the Political Philosophy exam, my matriculation number is 4567890.",4567890:matriculation_number;Political Philosophy:course_name
+"What’s my enrollment status for the Advanced Thermodynamics exam, my student number is 5678901.",5678901:matriculation_number;Advanced Thermodynamics:course_name
+"Am I signed up for the Molecular Biology Applications exam, my matriculation number is 6789012.",6789012:matriculation_number;Molecular Biology Applications:course_name
+"Check my registration for the European History Basics exam, my matriculation ID is 7890123.",7890123:matriculation_number;European History Basics:course_name
+"Can you tell me if I’m listed for the Software Design Patterns exam, my matriculation number is 8901234.",8901234:matriculation_number;Software Design Patterns:course_name
+"I’d like to confirm my status in the Computational Fluid Dynamics exam, my matriculation number is 9012345.",9012345:matriculation_number;Computational Fluid Dynamics:course_name
+"Please verify if I’m enrolled in the Public Administration Methods exam, my student number is 1123456.",1123456:matriculation_number;Public Administration Methods:course_name
+"Am I registered for the Neural Networks Fundamentals exam, my matriculation number is 1234567.",1234567:matriculation_number;Neural Networks Fundamentals:course_name
+"Can you check if I’m signed up for the History of Ancient Rome exam, my ID is 2345678.",2345678:matriculation_number;History of Ancient Rome:course_name
+"What is my status for the Advanced Organic Chemistry exam, my matriculation number is 3456789.",3456789:matriculation_number;Advanced Organic Chemistry:course_name
+"Check my registration for the Introduction to Genetics course exam, my matriculation ID is 4567890.",4567890:matriculation_number;Introduction to Genetics:course_name
+"Am I listed for the Cybersecurity Fundamentals exam, my matriculation number is 5678901.",5678901:matriculation_number;Cybersecurity Fundamentals:course_name
+"Please verify my enrollment in the Aerodynamics of Aircraft course, my ID is 6789012.",6789012:matriculation_number;Aerodynamics of Aircraft:course_name
+"What is my registration status for the Advanced Financial Analysis exam, my matriculation number is 7890123.",7890123:matriculation_number;Advanced Financial Analysis:course_name
+"Can you confirm if I’m signed up for the History of Political Thought exam, my matriculation number is 8901234.",8901234:matriculation_number;History of Political Thought:course_name
+"I want to ensure my registration in the Environmental Engineering Basics course, my matriculation number is 9012345.",9012345:matriculation_number;Environmental Engineering Basics:course_name
+"What’s my enrollment status for the Artificial Intelligence Ethics exam, my matriculation number is 1123456.",1123456:matriculation_number;Artificial Intelligence Ethics:course_name
+"Check if I’m registered for the History of Contemporary Literature exam, my matriculation ID is 1234567.",1234567:matriculation_number;History of Contemporary Literature:course_name
+"Can you confirm my registration in the Advanced Aerodynamics exam, my ID is 2345678.",2345678:matriculation_number;Advanced Aerodynamics:course_name
+"What’s my status for the Sociology of Education exam, my matriculation number is 3456789.",3456789:matriculation_number;Sociology of Education:course_name
+"Am I signed up for the Machine Learning Algorithms course exam, my student number is 4567890.",4567890:matriculation_number;Machine Learning Algorithms:course_name
+"Can you verify my registration in the exam for Space Science Basics, my matriculation number is 5678901.",5678901:matriculation_number;Space Science Basics:course_name
+"What is my enrollment status for the Nanotechnology Applications exam, my matriculation ID is 6789012.",6789012:matriculation_number;Nanotechnology Applications:course_name
+"Check if I’m listed for the Oceanography and Marine Biology exam, my student number is 7890123.",7890123:matriculation_number;Oceanography and Marine Biology:course_name
+"I’d like to know if I’m signed up for the Bioinformatics Systems exam, my matriculation number is 8901234.",8901234:matriculation_number;Bioinformatics Systems:course_name
+"Please confirm my enrollment in the Public Health and Safety course, my matriculation number is 9012345.",9012345:matriculation_number;Public Health and Safety:course_name
+"What’s my registration status for the Materials Science Fundamentals exam, my matriculation number is 1123456.",1123456:matriculation_number;Materials Science Fundamentals:course_name
+"Can you check if I’m signed up for the History of Medieval Europe exam, my ID is 1234567.",1234567:matriculation_number;History of Medieval Europe:course_name
+"Am I listed for the course exam in Cellular and Molecular Biology, my matriculation number is 2345678.",2345678:matriculation_number;Cellular and Molecular Biology:course_name
+"Please verify if I’m enrolled in the Aerospace Propulsion Systems exam, my matriculation ID is 3456789.",3456789:matriculation_number;Aerospace Propulsion Systems:course_name
+"What’s my status in the exam for Human Geography Perspectives, my matriculation number is 4567890.",4567890:matriculation_number;Human Geography Perspectives:course_name
+"Am I registered for the History of the Renaissance exam, my student number is 4567890.",4567890:matriculation_number;History of the Renaissance:course_name
+"What grade did I get in Advanced Molecular Biology exam, my matriculation number is 1234567.",1234567:matriculation_number;Advanced Molecular Biology:course_name
+"Could you tell me my grade for the exam in Medieval Literature, my matriculation ID is 2345678.",2345678:matriculation_number;Medieval Literature:course_name
+"I need to know the grade I achieved in Environmental Law, my student number is 3456789.",3456789:matriculation_number;Environmental Law:course_name
+"What was my score for the Introduction to Astrophysics exam, my matriculation number is 4567890.",4567890:matriculation_number;Introduction to Astrophysics:course_name
+"Can you confirm my grade in the Biochemical Engineering exam, my matriculation number is 5678901.",5678901:matriculation_number;Biochemical Engineering:course_name
+"I’m looking for my grade in the History of the Cold War exam, my ID is 6789012.",6789012:matriculation_number;History of the Cold War:course_name
+"How did I perform in Advanced Econometrics, my matriculation number is 7890123.",7890123:matriculation_number;Advanced Econometrics:course_name
+"Please tell me the grade I received for the Human Anatomy and Physiology exam, my matriculation ID is 8901234.",8901234:matriculation_number;Human Anatomy and Physiology:course_name
+"Can you provide my result for the Fundamentals of Machine Learning exam, my student number is 9012345.",9012345:matriculation_number;Fundamentals of Machine Learning:course_name
+"What was my grade in the exam for International Politics and Security, my matriculation number is 1123456.",1123456:matriculation_number;International Politics and Security:course_name
+"Check the score I earned in the Introduction to Organic Chemistry exam, my matriculation number is 1234567.",1234567:matriculation_number;Introduction to Organic Chemistry:course_name
+"How did I do in the course exam for Political Science Foundations, my student number is 2345678.",2345678:matriculation_number;Political Science Foundations:course_name
+"I want to know the grade I achieved in the Urban Planning Techniques exam, my matriculation number is 3456789.",3456789:matriculation_number;Urban Planning Techniques:course_name
+"Please share my grade for the French Literature Through the Ages exam, my matriculation ID is 4567890.",4567890:matriculation_number;French Literature Through the Ages:course_name
+"Am I aware of the score for the exam in Behavioral Psychology, my ID is 5678901.",5678901:matriculation_number;Behavioral Psychology:course_name
+"What grade did I achieve in Computational Chemistry exam, my matriculation number is 6789012.",6789012:matriculation_number;Computational Chemistry:course_name
+"Could you retrieve my results for Quantum Mechanics Basics, my student number is 7890123.",7890123:matriculation_number;Quantum Mechanics Basics:course_name
+"I’m curious about the grade for Principles of Macroeconomics, my matriculation ID is 8901234.",8901234:matriculation_number;Principles of Macroeconomics:course_name
+"Please confirm my performance in the Genetics and Evolution exam, my student number is 9012345.",9012345:matriculation_number;Genetics and Evolution:course_name
+"How well did I do in the Advanced Network Security exam, my matriculation number is 1123456.",1123456:matriculation_number;Advanced Network Security:course_name
+"Tell me the grade I got in the Introduction to Robotics exam, my matriculation number is 1234567.",1234567:matriculation_number;Introduction to Robotics:course_name
+"What score did I secure in International Trade and Policy, my student number is 2345678.",2345678:matriculation_number;International Trade and Policy:course_name
+"Can you verify my grade for Foundations of Artificial Intelligence exam, my matriculation ID is 3456789.",3456789:matriculation_number;Foundations of Artificial Intelligence:course_name
+"I’d like to know my score for the Theory of Relativity Basics, my ID is 4567890.",4567890:matriculation_number;Theory of Relativity Basics:course_name
+"Please retrieve my grade in the course on Public Administration Principles, my matriculation number is 5678901.",5678901:matriculation_number;Public Administration Principles:course_name
+"Am I aware of the performance in Biophysics and Cellular Mechanics exam, my matriculation number is 6789012.",6789012:matriculation_number;Biophysics and Cellular Mechanics:course_name
+"Could you let me know how I did in Advanced Topics in Literature exam, my student ID is 7890123.",7890123:matriculation_number;Advanced Topics in Literature:course_name
+"I’d like the details for my grade in Microbiology Techniques exam, my matriculation number is 8901234.",8901234:matriculation_number;Microbiology Techniques:course_name
+"Can you check if I passed the exam in Cognitive Science Approaches, my student number is 9012345.",9012345:matriculation_number;Cognitive Science Approaches:course_name
+"What’s the grade for the Sustainable Energy Development course, my matriculation number is 1123456.",1123456:matriculation_number;Sustainable Energy Development:course_name
+"How well did I do in the Ecosystem Services Management exam, my matriculation number is 1234567.",1234567:matriculation_number;Ecosystem Services Management:course_name
+"Could you share my results for the Anatomy of Vertebrates course exam, my matriculation number is 2345678.",2345678:matriculation_number;Anatomy of Vertebrates:course_name
+"Please confirm my score in Foundations of Public Relations, my student number is 3456789.",3456789:matriculation_number;Foundations of Public Relations:course_name
+"What grade did I earn in the course on German Linguistics and Culture, my matriculation number is 4567890.",4567890:matriculation_number;German Linguistics and Culture:course_name
+"Can you provide my score in Medical Physics Basics exam, my student ID is 5678901.",5678901:matriculation_number;Medical Physics Basics:course_name
+"Please check my result for the Database Systems Principles course, my matriculation number is 6789012.",6789012:matriculation_number;Database Systems Principles:course_name
+"Verify how I performed in the Space Exploration Techniques exam, my student ID is 7890123.",7890123:matriculation_number;Space Exploration Techniques:course_name
+"What’s my grade for the exam in Agricultural Science Techniques, my matriculation ID is 8901234",8901234:matriculation_number;Agricultural Science Techniques:course_name
+"How did I perform in the Neurological Pathways and Disorders exam, my matriculation number is 9012345.",9012345:matriculation_number;Neurological Pathways and Disorders:course_name
+"What is my grade in Introduction to Psychology exam, my matriculation number is 1234567.",1234567:matriculation_number;Introduction to Psychology:course_name
+"Can you tell me the grade I achieved in Advanced Calculus exam, my matriculation number is 2345678.",2345678:matriculation_number;Advanced Calculus:course_name
+"I would like to know my grade in Modern Art History exam, my matriculation number is 3456789.",3456789:matriculation_number;Modern Art History:course_name
+"Please provide my grade in Environmental Science exam, my matriculation number is 4567890.",4567890:matriculation_number;Environmental Science:course_name
+"Could you check my grade in Organic Chemistry I exam, my matriculation number is 5678901.",5678901:matriculation_number;Organic Chemistry I:course_name
+"I want to verify my grade in Sociology of Education exam, my matriculation number is 6789012.",6789012:matriculation_number;Sociology of Education:course_name
+"Let me know the grade I earned in Programming Basics exam, my matriculation number is 7890123.",7890123:matriculation_number;Programming Basics:course_name
+"What was my grade in Financial Accounting exam, my matriculation number is 8901234.",8901234:matriculation_number;Financial Accounting:course_name
+"Can I know my grade in Neural Networks and Deep Learning exam, my matriculation number is 9012345.",9012345:matriculation_number;Neural Networks and Deep Learning:course_name
+"Please tell me my grade in Political Science 101 exam, my matriculation number is 1123456.",1123456:matriculation_number;Political Science 101:course_name
+"What grade did I achieve in Creative Writing Techniques exam, my matriculation number is 1234567.",1234567:matriculation_number;Creative Writing Techniques:course_name
+"How did I perform in Biochemistry Basics exam, my matriculation number is 2345678.",2345678:matriculation_number;Biochemistry Basics:course_name
+"Check my grade in International Law exam, my matriculation number is 3456789.",3456789:matriculation_number;International Law:course_name
+"Could you inform me about my grade in History of Medieval Europe exam, my matriculation number is 4567890.",4567890:matriculation_number;History of Medieval Europe:course_name
+"I’m curious about my grade in Microeconomics Principles exam, my matriculation number is 5678901.",5678901:matriculation_number;Microeconomics Principles:course_name
+"Please confirm my grade in Robotics Fundamentals exam, my matriculation number is 6789012.",6789012:matriculation_number;Robotics Fundamentals:course_name
+"What was the result of my Machine Learning Algorithms exam, my matriculation number is 7890123.",7890123:matriculation_number;Machine Learning Algorithms:course_name
+"Can you tell me the grade for Aerodynamics Basics exam, my matriculation number is 8901234.",8901234:matriculation_number;Aerodynamics Basics:course_name
+"What grade did I get in Quantum Physics I exam, my matriculation number is 9012345.",9012345:matriculation_number;Quantum Physics I:course_name
+"Let me know my performance in Public Administration Principles exam, my matriculation number is 1123456.",1123456:matriculation_number;Public Administration Principles:course_name
+"What’s my grade in Computational Fluid Dynamics exam, my matriculation number is 1234567.",1234567:matriculation_number;Computational Fluid Dynamics:course_name
+"Am I aware of the grade for History of Cinema exam, my matriculation number is 2345678.",2345678:matriculation_number;History of Cinema:course_name
+"Can I retrieve the grade for European History Basics exam, my matriculation number is 3456789.",3456789:matriculation_number;European History Basics:course_name
+"Check the result of my Artificial Intelligence Fundamentals exam, my matriculation number is 4567890.",4567890:matriculation_number;Artificial Intelligence Fundamentals:course_name
+"Please provide my grade for the Creative Problem Solving exam, my matriculation number is 5678901.",5678901:matriculation_number;Creative Problem Solving:course_name
+"What result did I earn in Advanced Organic Chemistry exam, my matriculation number is 6789012.",6789012:matriculation_number;Advanced Organic Chemistry:course_name
+"How did I do in Cybersecurity Basics exam, my matriculation number is 7890123.",7890123:matriculation_number;Cybersecurity Basics:course_name
+"I’m requesting the grade for Oceanography and Marine Biology exam, my matriculation number is 8901234.",8901234:matriculation_number;Oceanography and Marine Biology:course_name
+"What’s my result in Human Anatomy Fundamentals exam, my matriculation number is 9012345.",9012345:matriculation_number;Human Anatomy Fundamentals:course_name
+"Could you confirm my grade for Ethics in Technology exam, my matriculation number is 1123456.",1123456:matriculation_number;Ethics in Technology:course_name
+"Please check my grade in Introduction to World Religions exam, my matriculation number is 1234567.",1234567:matriculation_number;Introduction to World Religions:course_name
+"I need to know how I performed in Structural Engineering Principles exam, my matriculation number is 2345678.",2345678:matriculation_number;Structural Engineering Principles:course_name
+"What was the grade for my Software Architecture Design exam, my matriculation number is 3456789.",3456789:matriculation_number;Software Architecture Design:course_name
+"Am I aware of the grade for French Literature 101 exam, my matriculation number is 4567890.",4567890:matriculation_number;French Literature 101:course_name
+"What’s the result for Advanced Financial Analysis exam, my matriculation number is 5678901.",5678901:matriculation_number;Advanced Financial Analysis:course_name
+"Let me know the grade for Data Science Applications exam, my matriculation number is 6789012.",6789012:matriculation_number;Data Science Applications:course_name
+"Can I have my grade for Space Exploration and Science exam, my matriculation number is 7890123.",7890123:matriculation_number;Space Exploration and Science:course_name
+"What was my performance in Materials Science Applications exam, my matriculation number is 8901234.",8901234:matriculation_number;Materials Science Applications:course_name
+"Could you confirm the grade for History of Modern Warfare exam, my matriculation number is 9012345.",9012345:matriculation_number;History of Modern Warfare:course_name
+"How did I do in Advanced Thermodynamics exam, my matriculation number is 1123456.",1123456:matriculation_number;Advanced Thermodynamics:course_name
+"What’s the grade for Applied Statistical Analysis exam, my matriculation number is 1234567.",1234567:matriculation_number;Applied Statistical Analysis:course_name
+"Am I aware of the result for the Literature of the Renaissance exam, my matriculation number is 2345678.",2345678:matriculation_number;Literature of the Renaissance:course_name
+"Can you tell me the grade for Introduction to Astrophysics exam, my matriculation number is 3456789.",3456789:matriculation_number;Introduction to Astrophysics:course_name
+"Check my performance in Philosophy of Modernity exam, my matriculation number is 4567890.",4567890:matriculation_number;Philosophy of Modernity:course_name

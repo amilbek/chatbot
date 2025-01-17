@@ -11,3 +11,9 @@ env/
 # IDE
 .vscode/
 .idea/
+.DS_Store
+database/shared_database.db
+models/custom_ner_model/
+models/intent_lstm_model.keras
+models/label_encoder.pkl
+models/tokenizer.pkl

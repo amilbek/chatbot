@@ -1,0 +1,200 @@
+text,entities
+"Change my address to Kurfürstenstraße 20, 10785 Berlin.",Kurfürstenstraße 20:address;Berlin:city;10785:post_code
+"Please update my city to Munich and my post code to 80331.",Munich:city;80331:post_code
+"I have changed my name to Michael Smith.",Michael:first_name;Smith:last_name
+"My current residence is at Königsallee 5, 40212 Düsseldorf.",Königsallee 5:address;Düsseldorf:city;40212:post_code
+"Switch my name to Emma Brown.",Emma:first_name;Brown:last_name
+"Please remove my registration from the exam in Data Science, matriculation number 8765432.",8765432:matriculation_number;Data Science:course_name
+"Update my address to Bahnhofstraße 1, 10115 Berlin.",Bahnhofstraße 1:address;Berlin:city;10115:post_code
+"I’m now living in Hamburg, postal code 20095, at Lange Reihe 12.",Lange Reihe 12:address;Hamburg:city;20095:post_code
+"Am I registered for the exam in Advanced AI, matriculation number 3456789?",3456789:matriculation_number;Advanced AI:course_name
+"Update my name to Sophia Davis.",Sophia:first_name;Davis:last_name
+"Please confirm if my registration for the Business Analytics exam is active, ID 1234567.",1234567:matriculation_number;Business Analytics:course_name
+"My new address is 80802 Munich, Maria-Theresia-Straße 8.",Maria-Theresia-Straße 8:address;Munich:city;80802:post_code
+"Register my new first name as John and my last name as Doe.",John:first_name;Doe:last_name
+"Change my last name to Miller.",Miller:last_name
+"Please update my records with the new address: 44137 Dortmund, Kampstraße 20.",Kampstraße 20:address;Dortmund:city;44137:post_code
+"Am I enrolled in the exam for Artificial Intelligence, matriculation number 5432123?",5432123:matriculation_number;Artificial Intelligence:course_name
+"I want to deregister from the exam in Cybersecurity, ID is 6543210.",6543210:matriculation_number;Cybersecurity:course_name
+"My new name is Anna Johnson.",Anna:first_name;Johnson:last_name
+"I have moved to Stuttgart, Königstraße 10, post code 70173.",Königstraße 10:address;Stuttgart:city;70173:post_code
+"Change my first name to Robert and my last name to White.",Robert:first_name;White:last_name
+"Please deregister me from the Data Structures exam, ID 4321987.",4321987:matriculation_number;Data Structures:course_name
+"Update my personal information: address is 69115 Heidelberg, Bahnhofstraße 10.",Bahnhofstraße 10:address;Heidelberg:city;69115:post_code
+"My new city is Frankfurt, post code 60311, address is Neue Mainzer Straße 32.",Neue Mainzer Straße 32:address;Frankfurt:city;60311:post_code
+"Register my name as Olivia Green.",Olivia:first_name;Green:last_name
+"Can you change my last name to Adams?",Adams:last_name
+"Update my address to Hauptstraße 12, 50667 Cologne.",Hauptstraße 12:address;Cologne:city;50667:post_code
+"Please register my new name as Noah Schmidt.",Noah:first_name;Schmidt:last_name
+"I moved to Düsseldorf, new post code is 40210, address is Friedrichstraße 78.",Friedrichstraße 78:address;Düsseldorf:city;40210:post_code
+"Change my first name to Amelia and my last name to Taylor.",Amelia:first_name;Taylor:last_name
+"Switch my address to Kirchplatz 2, 78462 Konstanz.",Kirchplatz 2:address;Konstanz:city;78462:post_code
+"Can you please update my name to Lucas Bauer?",Lucas:first_name;Bauer:last_name
+"I’ve changed my city to Essen and my post code to 45127.",Essen:city;45127:post_code
+"Add my new address: 55116 Mainz, Rheinstraße 40.",Rheinstraße 40:address;Mainz:city;55116:post_code
+"I want to deregister from the exam in Machine Vision, matriculation number 6789012.",6789012:matriculation_number;Machine Vision:course_name
+"Please change my last name to Wilson.",Wilson:last_name
+"My updated address is Karlstraße 9, 80333 Munich.",Karlstraße 9:address;Munich:city;80333:post_code
+"Update my record with the new name Charlotte Brown.",Charlotte:first_name;Brown:last_name
+"Please change my first name to David and my last name to Martin.",David:first_name;Martin:last_name
+"My new residence is at Schillerstraße 6, 04109 Leipzig.",Schillerstraße 6:address;Leipzig:city;04109:post_code
+"I want to deregister from the Quantum Computing exam, matriculation number 1122334.",1122334:matriculation_number;Quantum Computing:course_name
+"Am I still enrolled in the exam for Network Security, ID is 7890123?",7890123:matriculation_number;Network Security:course_name
+"Register my updated address: 14482 Potsdam, Babelsberger Straße 10.",Babelsberger Straße 10:address;Potsdam:city;14482:post_code
+"Change my name to Mia Johnson.",Mia:first_name;Johnson:last_name
+"I want to update my first name to Oliver.",Oliver:first_name
+"Update my profile: post code is 60323, city is Frankfurt.",Frankfurt:city;60323:post_code
+"My new name is Emily White.",Emily:first_name;White:last_name
+"I need to change my last name to Brown.",Brown:last_name
+"Can you update my address to Goethestraße 14, 70176 Stuttgart?",Goethestraße 14:address;Stuttgart:city;70176:post_code
+"My new first name is Emma and my last name is Green.",Emma:first_name;Green:last_name
+"Please deregister me from the Software Engineering exam, ID is 3459876.",3459876:matriculation_number;Software Engineering:course_name
+"I changed my name to Jacob Miller.",Jacob:first_name;Miller:last_name
+"My address is now Neue Straße 3, 30159 Hanover.",Neue Straße 3:address;Hanover:city;30159:post_code
+"I want to confirm my registration for the exam in Cryptography, matriculation number 6547890.",6547890:matriculation_number;Cryptography:course_name
+"Am I still registered for the Database Systems exam? My ID is 5678901.",5678901:matriculation_number;Database Systems:course_name
+"My updated address is at Berliner Platz 5, 53111 Bonn.",Berliner Platz 5:address;Bonn:city;53111:post_code
+"Change my last name to Thompson.",Thompson:last_name
+"Can you register my new name as Ethan Davis?",Ethan:first_name;Davis:last_name
+"My residence has changed to Goethestraße 17, 04229 Leipzig.",Goethestraße 17:address;Leipzig:city;04229:post_code
+"I have moved to Bremen, my new address is Hafenstraße 20, 28195.",Hafenstraße 20:address;Bremen:city;28195:post_code
+"Please switch my first name to Ava and my last name to Robinson.",Ava:first_name;Robinson:last_name
+"Confirm my enrollment in the Software Testing exam, ID is 7896543.",7896543:matriculation_number;Software Testing:course_name
+"I now live at Goetheallee 8, 35390 Giessen.",Goetheallee 8:address;Giessen:city;35390:post_code
+"My new name is Ella Turner.",Ella:first_name;Turner:last_name
+"I would like to deregister from the Cloud Computing exam, matriculation number 8763452.",8763452:matriculation_number;Cloud Computing:course_name
+"Am I registered for the exam in Machine Learning? My ID is 1239087.",1239087:matriculation_number;Machine Learning:course_name
+"Change my address to Albertstraße 22, 01109 Dresden.",Albertstraße 22:address;Dresden:city;01109:post_code
+"Please update my name: first name is Lucas, last name is Garcia.",Lucas:first_name;Garcia:last_name
+"I need to change my last name to Anderson.",Anderson:last_name
+"My current city is Cologne, post code 50672, address is Hohenzollernring 18.",Hohenzollernring 18:address;Cologne:city;50672:post_code
+"I’ve updated my records, new address is in Nuremberg, post code 90402, Lorenzer Platz 3.",Lorenzer Platz 3:address;Nuremberg:city;90402:post_code
+"Please confirm my registration for the exam in Advanced Databases, ID 9876543.",9876543:matriculation_number;Advanced Databases:course_name
+"Can you change my address to Friedrichstraße 15, 01069 Dresden?",Friedrichstraße 15:address;Dresden:city;01069:post_code
+"Switch my name to Zoe Carter.",Zoe:first_name;Carter:last_name
+"My first name is Jack and my last name is Lee, please update it.",Jack:first_name;Lee:last_name
+"I have changed my address to Sonnenstraße 11, 80331 Munich.",Sonnenstraße 11:address;Munich:city;80331:post_code
+"Am I enrolled in the Web Development exam? My ID is 2345678.",2345678:matriculation_number;Web Development:course_name
+"My updated name is Daniel Evans.",Daniel:first_name;Evans:last_name
+"Please update my city to Stuttgart and post code to 70563.",Stuttgart:city;70563:post_code
+"I want to change my first name to Laura and last name to Moore.",Laura:first_name;Moore:last_name
+"Update my record: address is 68165 Mannheim, Seckenheimer Straße 10.",Seckenheimer Straße 10:address;Mannheim:city;68165:post_code
+"Can you please confirm my registration for the AI exam? My ID is 7890345.",7890345:matriculation_number;AI:course_name
+"Please deregister me from the Robotics exam, matriculation number is 5678432.",5678432:matriculation_number;Robotics:course_name
+"Change my name to Lucas Gray.",Lucas:first_name;Gray:last_name
+"My new city is Düsseldorf, post code 40211, address is Schadowstraße 30.",Schadowstraße 30:address;Düsseldorf:city;40211:post_code
+"Update my address to Königsallee 15, 40212 Düsseldorf.",Königsallee 15:address;Düsseldorf:city;40212:post_code
+"I’ve moved to Hamburg, new address is Gänsemarkt 12, 20354.",Gänsemarkt 12:address;Hamburg:city;20354:post_code
+"Please change my first name to Sophie and last name to King.",Sophie:first_name;King:last_name
+"Am I still registered for the exam in Data Analysis? My ID is 2348765.",2348765:matriculation_number;Data Analysis:course_name
+"I want to deregister from the Cybersecurity exam, matriculation number 9876543.",9876543:matriculation_number;Cybersecurity:course_name
+"My residence is now in Berlin, address is Alexanderplatz 4, 10178.",Alexanderplatz 4:address;Berlin:city;10178:post_code
+"Switch my name to Noah Walker.",Noah:first_name;Walker:last_name
+"Update my profile with new address: 22297 Hamburg, Winterhuder Weg 20.",Winterhuder Weg 20:address;Hamburg:city;22297:post_code
+"I need to change my name to Emma Adams.",Emma:first_name;Adams:last_name
+"My new address is Gartenstraße 5, 78462 Konstanz.",Gartenstraße 5:address;Konstanz:city;78462:post_code
+"Please confirm my registration for the Software Design exam, matriculation number is 3459087.",3459087:matriculation_number;Software Design:course_name
+"I want to deregister from the Machine Learning exam, ID is 6543219.",6543219:matriculation_number;Machine Learning:course_name
+"Update my details: address is Theodor-Heuss-Straße 25, 70174 Stuttgart.",Theodor-Heuss-Straße 25:address;Stuttgart:city;70174:post_code
+"My first name is Olivia and my last name is Martinez.",Olivia:first_name;Martinez:last_name
+"Change my residence to Frankfurt, Goethestraße 18, post code 60313.",Goethestraße 18:address;Frankfurt:city;60313:post_code
+"Am I still enrolled in the Mathematics exam, matriculation number 1237890?",1237890:matriculation_number;Mathematics:course_name
+"Please update my address to Königsplatz 9, 86150 Augsburg.",Königsplatz 9:address;Augsburg:city;86150:post_code
+"I’ve changed my name to Ava Johnson.",Ava:first_name;Johnson:last_name
+"Can you update my record with the new address: Berliner Platz 3, 53111 Bonn?",Berliner Platz 3:address;Bonn:city;53111:post_code
+"My current address is Berliner Straße 25, 60311 Frankfurt.",Berliner Straße 25:address;Frankfurt:city;60311:post_code
+"I need to deregister from the exam in Physics, ID is 6789034.",6789034:matriculation_number;Physics:course_name
+"Please confirm if I’m enrolled in the Chemistry exam, my matriculation number is 9087654.",9087654:matriculation_number;Chemistry:course_name
+"Switch my last name to Thompson.",Thompson:last_name
+"I’ve moved to Munich, address is Marienplatz 15, post code 80331.",Marienplatz 15:address;Munich:city;80331:post_code
+"My new first name is Ethan and my last name is Carter.",Ethan:first_name;Carter:last_name
+"Please update my city to Bremen, post code 28195, and address to Domshof 8.",Domshof 8:address;Bremen:city;28195:post_code
+"Change my details: new name is Chloe Taylor.",Chloe:first_name;Taylor:last_name
+"I’ve moved to Dresden, my new address is Augustusstraße 1, 01067.",Augustusstraße 1:address;Dresden:city;01067:post_code
+"My name has changed to Alexander Brown.",Alexander:first_name;Brown:last_name
+"Update my residence to Hafenstraße 10, 28217 Bremen.",Hafenstraße 10:address;Bremen:city;28217:post_code
+"Please register my new name as Emily Thompson.",Emily:first_name;Thompson:last_name
+"I’ve updated my profile: address is Hauptmarkt 3, 90403 Nuremberg.",Hauptmarkt 3:address;Nuremberg:city;90403:post_code
+"Am I enrolled in the Artificial Intelligence exam, ID is 9087654?",9087654:matriculation_number;Artificial Intelligence:course_name
+"Please deregister me from the Machine Vision exam, ID is 6549870.",6549870:matriculation_number;Machine Vision:course_name
+"My updated address is in Freiburg, Gartenstraße 7, post code 79104.",Gartenstraße 7:address;Freiburg:city;79104:post_code
+"Change my city to Hanover, post code 30159, and address to Opernplatz 5.",Opernplatz 5:address;Hanover:city;30159:post_code
+"My new name is Mia Anderson.",Mia:first_name;Anderson:last_name
+"Can you register my address as Marktstraße 10, 28195 Bremen?",Marktstraße 10:address;Bremen:city;28195:post_code
+"Please update my name to Jacob Turner.",Jacob:first_name;Turner:last_name
+"Confirm my registration for the Computer Networks exam, matriculation number is 2345678.",2345678:matriculation_number;Computer Networks:course_name
+"Am I still enrolled in the exam for Cloud Computing, ID is 7894321?",7894321:matriculation_number;Cloud Computing:course_name
+"Please change my name to Laura Gonzalez.",Laura:first_name;Gonzalez:last_name
+"My address is now Rathausstraße 12, 50667 Cologne.",Rathausstraße 12:address;Cologne:city;50667:post_code
+"I’ve updated my city to Frankfurt and my post code to 60329.",Frankfurt:city;60329:post_code
+"Can you update my profile with the new address: Unter den Linden 1, 10117 Berlin?",Unter den Linden 1:address;Berlin:city;10117:post_code
+"Change my details to Emma Lewis.",Emma:first_name;Lewis:last_name
+"My updated residence is at Poststraße 8, 28195 Bremen.",Poststraße 8:address;Bremen:city;28195:post_code
+"Please confirm if I am registered for the Data Science exam, ID is 9876541.",9876541:matriculation_number;Data Science:course_name
+"I want to deregister from the Software Architecture exam, matriculation number is 4561237.",4561237:matriculation_number;Software Architecture:course_name
+"Update my name to Noah White.",Noah:first_name;White:last_name
+"Please switch my first name to Olivia and my last name to Davis.",Olivia:first_name;Davis:last_name
+"My residence has changed to Berlin, Alexanderplatz 7, post code 10178.",Alexanderplatz 7:address;Berlin:city;10178:post_code
+"Am I still enrolled in the exam for Algorithms, matriculation number 2347896?",2347896:matriculation_number;Algorithms:course_name
+"Please deregister me from the Operating Systems exam, ID is 7893451.",7893451:matriculation_number;Operating Systems:course_name
+"Change my address to Neue Straße 6, 28195 Bremen.",Neue Straße 6:address;Bremen:city;28195:post_code
+"My name is now Jack Harris.",Jack:first_name;Harris:last_name
+"Can you update my city to Leipzig, post code 04103?",Leipzig:city;04103:post_code
+"I’ve moved to Hamburg, my new address is Mönckebergstraße 11, 20095.",Mönckebergstraße 11:address;Hamburg:city;20095:post_code
+"Update my profile with new name Lucas Clark.",Lucas:first_name;Clark:last_name
+"My new address is Königsplatz 20, 86150 Augsburg.",Königsplatz 20:address;Augsburg:city;86150:post_code
+"I need to deregister from the exam in Data Mining, matriculation number 6541237.",6541237:matriculation_number;Data Mining:course_name
+"Please register my name as Mia Scott.",Mia:first_name;Scott:last_name
+"My updated residence is now in Munich, address is Schwanthalerstraße 45, 80336.",Schwanthalerstraße 45:address;Munich:city;80336:post_code
+"I want to confirm my enrollment in the Statistics exam, matriculation number 6783210.",6783210:matriculation_number;Statistics:course_name
+"Can you switch my name to Ethan Martinez?",Ethan:first_name;Martinez:last_name
+"My address has changed to Bahnhofsplatz 3, 28215 Bremen.",Bahnhofsplatz 3:address;Bremen:city;28215:post_code
+"Update my first name to Isabella and my last name to Brown.",Isabella:first_name;Brown:last_name
+"My new residence is in Frankfurt, address is Mainzer Landstraße 50, post code 60325.",Mainzer Landstraße 50:address;Frankfurt:city;60325:post_code
+"Am I registered for the Machine Vision exam, ID is 7896542?",7896542:matriculation_number;Machine Vision:course_name
+"I’ve moved to Stuttgart, my new address is Königstraße 18, 70173.",Königstraße 18:address;Stuttgart:city;70173:post_code
+"Change my last name to Evans.",Evans:last_name
+"Update my record with the new city Düsseldorf, post code 40213.",Düsseldorf:city;40213:post_code
+"My updated name is Ava Williams.",Ava:first_name;Williams:last_name
+"Can you update my address to Neuer Wall 10, 20354 Hamburg?",Neuer Wall 10:address;Hamburg:city;20354:post_code
+"Please register my new name as Sophia Carter.",Sophia:first_name;Carter:last_name
+"Am I still enrolled in the Web Applications exam, matriculation number is 9086543?",9086543:matriculation_number;Web Applications:course_name
+"Update my profile with new address: Marktstraße 25, 28195 Bremen.",Marktstraße 25:address;Bremen:city;28195:post_code
+"I have changed my name to Jacob Smith.",Jacob:first_name;Smith:last_name
+"My current residence is in Cologne, address is Rudolfplatz 14, post code 50674.",Rudolfplatz 14:address;Cologne:city;50674:post_code
+"Please switch my name to Charlotte Johnson.",Charlotte:first_name;Johnson:last_name
+"Am I registered for the exam in Software Engineering? My matriculation number is 2347654.",2347654:matriculation_number;Software Engineering:course_name
+"Please deregister me from the Database Management exam, ID 5678902.",5678902:matriculation_number;Database Management:course_name
+"My name is now Emma Walker.",Emma:first_name;Walker:last_name
+"I’ve moved to Stuttgart, Königsplatz 5, post code 70173.",Königsplatz 5:address;Stuttgart:city;70173:post_code
+"My updated address is Marktstraße 8, 35390 Gießen.",Marktstraße 8:address;Gießen:city;35390:post_code
+"Please update my first name to Daniel and my last name to Lee.",Daniel:first_name;Lee:last_name
+"I need to deregister from the exam in Advanced Mathematics, matriculation number 1234987.",1234987:matriculation_number;Advanced Mathematics:course_name
+"Confirm my enrollment in the Mobile Development exam, matriculation number 9087652.",9087652:matriculation_number;Mobile Development:course_name
+"My name has been updated to Chloe Davis.",Chloe:first_name;Davis:last_name
+"My address is now Goethestraße 15, 04109 Leipzig.",Goethestraße 15:address;Leipzig:city;04109:post_code
+"Please update my details: new address is in Nuremberg, Lorenzer Platz 9, post code 90402.",Lorenzer Platz 9:address;Nuremberg:city;90402:post_code
+"Update my name to Ethan Thompson.",Ethan:first_name;Thompson:last_name
+"Change my address to Friedrichstraße 20, 10117 Berlin.",Friedrichstraße 20:address;Berlin:city;10117:post_code
+"My new residence is Bahnhofstraße 15, 60329 Frankfurt.",Bahnhofstraße 15:address;Frankfurt:city;60329:post_code
+"I’ve switched my name to Zoe White.",Zoe:first_name;White:last_name
+"Am I registered for the Deep Learning exam, matriculation number is 8765432?",8765432:matriculation_number;Deep Learning:course_name
+"Please deregister me from the exam in Artificial Intelligence, ID is 3456789.",3456789:matriculation_number;Artificial Intelligence:course_name
+"Can you change my name to Isabella Moore?",Isabella:first_name;Moore:last_name
+"My updated address is Sonnenstraße 12, 80331 Munich.",Sonnenstraße 12:address;Munich:city;80331:post_code
+"Switch my residence to Düsseldorf, Immermannstraße 8, post code 40210.",Immermannstraße 8:address;Düsseldorf:city;40210:post_code
+"I now live in Hamburg at Jungfernstieg 7, post code 20095.",Jungfernstieg 7:address;Hamburg:city;20095:post_code
+"Please update my name to Noah Taylor.",Noah:first_name;Taylor:last_name
+"Change my profile information to Jack Brown.",Jack:first_name;Brown:last_name
+"Update my address: 70173 Stuttgart, Schlossplatz 1.",Schlossplatz 1:address;Stuttgart:city;70173:post_code
+"Am I still enrolled in the Machine Learning course, matriculation number 2345678?",2345678:matriculation_number;Machine Learning:course_name
+"Please deregister me from the Database Systems exam, ID is 9087654.",9087654:matriculation_number;Database Systems:course_name
+"My updated address is in Potsdam, Am Neuen Markt 20, post code 14467.",Am Neuen Markt 20:address;Potsdam:city;14467:post_code
+"Change my details: first name to Emma and last name to Harris.",Emma:first_name;Harris:last_name
+"My current residence is in Leipzig, post code 04109, address is Hainstraße 10.",Hainstraße 10:address;Leipzig:city;04109:post_code
+"I want to update my profile: name is Mia Evans.",Mia:first_name;Evans:last_name
+"Update my address to Neuer Markt 12, 18055 Rostock.",Neuer Markt 12:address;Rostock:city;18055:post_code
+"Am I enrolled in the exam for Cloud Computing? Matriculation number 7890123.",7890123:matriculation_number;Cloud Computing:course_name
+"Please switch my name to Ethan Lewis.",Ethan:first_name;Lewis:last_name
+"Update my records with the new address: Schillerstraße 11, 04103 Leipzig.",Schillerstraße 11:address;Leipzig:city;04103:post_code
+"Please update my profile with the new name Charlotte Miller.",Charlotte:first_name;Miller:last_name

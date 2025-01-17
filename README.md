@@ -1,13 +1,15 @@
-# Python template for the Trends of AI semester project
-This is a template for the Trends of AI semester project. It includes a basic structure for the project, as well as a conda environment file to install the necessary packages.
+# StudentDesk
+
+StudentDesk is a virtual assistant designed to support students with common university-related tasks. It simplifies access to important information and services, helping students manage their academic activities efficiently.
 
 ## Project structure
 The project structure is as follows:
 ```
-Trends-of-AI-Project-Template/
+Chatbot/
 ├── data/
 │   ├── raw/
 │   ├── processed/
+├── diagrams/
 ├── models/
 ├── notebooks/
 ├── src/
@@ -18,22 +20,10 @@ The project structure includes several key folders and files:
 - `data`: Stores raw and processed data
 - `notebooks`: Contains Jupyter notebooks
 - `src`: Holds the source code
+- `diagrams`: Contains diagrams and user interface
 - `models`: Stores trained models
 - `environment.yml`: Creates a conda environment with necessary packages
 - `README.md`: Provides project information
-
-Depending on your project's needs, you may need to add extra folders or files, or remove existing ones (e.g., omit the `src` folder if you're working exclusively with Jupyter notebooks).
-
-## Usage
-The conda environment file includes the necessary packages for the project. If you need to install additional packages, please add them to the [environment file](environment.yml)
- and update the environment by reinstalling it (**make sure to update the environment file in the repository as well including version numbers!**).
-
-When working on the project, make sure to use the provided project structure and follow the best practices for project organization. This includes using version control, writing clean and readable code, and documenting your work. Make sure to document your code and provide a README file with information about the project, including how to reproduce the results.
-
-When you're done with the project, make sure to clean up the code, remove unnecessary files, and provide a clean version of the project.
-
-**This is important to ensure that we can reproduce the results of the project and understand the work that has been done!**
-
 
 ## Installation
 To install the necessary packages, use the provided conda environment file. First, make sure you have conda installed. If you don't have it installed, you can download it from [here](https://docs.conda.io/en/latest/miniconda.html).
@@ -45,12 +35,11 @@ conda env create -f environment.yml
 
 To activate the environment, use:
 ```bash
-conda activate trends-of-ai-semester-project
+conda activate student-desk
 ```
 If you're using an IDE like PyCharm or VSCode, you have to select the environment in the IDE settings.
 
 ## Running Jupyter Lab
-Instead of using Jupyter notebooks, we recommend using Jupyter Lab. To run Jupyter Lab, use the following command:
 ```bash
 jupyter lab
 ```
@@ -60,5 +49,93 @@ http://localhost:8888/lab?token=aa7e97c2d09bae01632db508730ab48cbc4609fc92c7fc6e
 ```
 The token can vary, so make sure to use the one provided in the output.
 
+## Downloading additional package
 
-&copy; 2024 Lucas Schönhold
+To donwload - de_core_news_lg - spaCy language model (if it is already downloaded, there is no need to run this command.)
+```bash
+python -m spacy download de_core_news_lg
+```
+
+## Running Chatbot (User Interface)
+
+Enter following commands in terminal
+
+```bash
+conda activate student-desk
+```
+
+```bash
+cd src
+```
+
+```bash
+python app.py
+```
+
+Following this go to the link
+```bash
+127.0.0.1:5000
+```
+
+## Testing
+**test_requests.txt** contains possible requests to chatbot.
+
+## Chatbot Functionalities
+* Intent classification using **rule-based** and **machine learning** approaches.
+* **Named Entity Recognition (NER)** for extracting student details.
+* Database integration for retrieving and updating student records.
+
+## Supported Queries
+1. Update personal information (first name, last name, address)
+2. Register for exams
+3. Deregister from exams
+4. Query exam status
+5. Query exam grades
+6. Query student profile
+
+## Technologies Used
+* **spaCy (de_core_news_lg)**: Named Entity Recognition (NER)
+* **TensorFlow (Bidirectional LSTM)**: Intent classification
+* **sqlite3**: Database management
+* **Flask API**: API integration
+
+## Data
+The chatbot uses three datasets:
+* **tokens.csv**: Training data for NER, containing text and labeled entities.
+* **test_tokens.csv**: Testing data for NER.
+* **chatbot_dataset.csv**: Training data for intent classification.
+* **rule_based_intents.json**: Predefined intents for rule-based responses.
+
+## Models
+The models are stored in **[amilbek/univerisy-chatbot](https://huggingface.co/amilbek/univerisy-chatbot/tree/main)**
+
+* **custom_ner_model** - trained NER model to define entities
+* **intetn_lstm_model.keras** - trained Intent Classifier Model
+* **label_encoder.pkl** - Intent encoder
+* **tokenizer.pkl** - Text tokenizer
+
+## Database
+To get the completed database, run a cell in **notebooks/database.ipynb**
+
+* **shared_database.db** contains the database of the chatbot (users, courses, exams, exam grades).
+
+## Efficiency Metrics
+
+### NER Model
+
+|  Metric  | Value |
+|----------| ------|
+| Precision| 98.96%|
+| Recall   | 98.45%|
+| F1-Score | 98.70%|
+
+### Intent Classifier Model
+
+|  Metric  | Value |
+|----------| ------|
+| Accuracy| 99.50%|
+| Precision| 99.51%|
+| Recall   | 99.50%|
+| F1-Score | 99.50%|
+
+For more details, refer to the **StudentDesk Report**
