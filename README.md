@@ -28,6 +28,7 @@ Chatbot/
 ├── data/
 │   ├── raw/
 │   ├── processed/
+├── database/
 ├── diagrams/
 ├── models/
 ├── notebooks/
@@ -40,6 +41,7 @@ The project structure includes several key folders and files:
 - `notebooks`: Contains Jupyter notebooks
 - `src`: Holds the source code
 - `diagrams`: Contains diagrams and user interface
+- `database`: Contains database of the chatbot
 - `models`: Stores trained models
 - `environment.yml`: Creates a conda environment with necessary packages
 - `README.md`: Provides project information
