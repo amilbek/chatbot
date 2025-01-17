@@ -18,10 +18,8 @@ StudentDesk is a virtual assistant designed to support students with common univ
 12. [Models](#models)
 13. [Database](#database)
 14. [Efficiency Metrics](#efficiency-metrics)
-    - [NER Model](#ner-model-metrics)
-    - [Intent Classifier Model (#intent-classifier-model)
-15. 
-
+    - [NER Model](#ner-model)
+    - [Intent Classifier Model](#intent-classifier)
    
 ## Project Structure
 The project structure is as follows:
@@ -165,4 +163,4 @@ To get the completed database, run a cell in **notebooks/database.ipynb**
 | Recall   | 99.50%|
 | F1-Score | 99.50%|
 
-📝 **Detailed Documentation:** See the **[StudentDesk Report](#)** for in-depth insights.
+📝 **Detailed Documentation:** See the **[StudentDesk Report](https://github.com/amilbek/chatbot/blob/main/StudentDesk%20Report.pdf)** for in-depth insights.
