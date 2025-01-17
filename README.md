@@ -2,7 +2,11 @@
 
 StudentDesk is a virtual assistant designed to support students with common university-related tasks. It simplifies access to important information and services, helping students manage their academic activities efficiently.
 
-## Project structure[project-structure]
+## Table of Contents
+1. [Project Structure](#project-structure)
+
+   
+## Project Structure[project-structure]
 The project structure is as follows:
 ```
 Chatbot/
