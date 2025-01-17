@@ -19,7 +19,7 @@ StudentDesk is a virtual assistant designed to support students with common univ
 13. [Database](#database)
 14. [Efficiency Metrics](#efficiency-metrics)
     - [NER Model](#ner-model)
-    - [Intent Classifier Model](#intent-classifier)
+    - [Intent Classifier Model](#intent-classifier-model)
    
 ## Project Structure
 The project structure is as follows:
