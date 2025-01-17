@@ -7,7 +7,7 @@ StudentDesk is a virtual assistant designed to support students with common univ
 2. [Installation](#installation)
 3. [Running Jupyter Lab](#running-jupyter-lab)
 4. [Downloading additional package](#downloading-additional-package)
-5. [Running Chatbot](#running-chatbot)
+5. [Running Chatbot](#running-chatbot-user-interface)
 9. [StudentDesk User Interface](#studentdesk-user-interface)
 6. [Testing](#testing)
 7. [Chatbot Functionalities](#chatbot-functionalities)
