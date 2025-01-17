@@ -4,6 +4,23 @@ StudentDesk is a virtual assistant designed to support students with common univ
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
+2. [Installation](#installation)
+3. [Running Jupyter Lab](#running-jupyter-lab)
+4. [Downloading additional package](#downloading-additional-package)
+5. [Running Chatbot (User Interface)](#running-chatbot)
+9. [StudentDesk User Interface](#studentdesk-user-interface)
+6. [Testing](#testing)
+7. [Chatbot Functionalities](#chatbot-functionalities)
+8. [Supported Queries](#supported-queries)
+9. [StudentDesk Block Diagram](#studentdesk-block-diagram)
+10. [Technologies Used](#technologies-used)
+11. [Data](#data)
+12. [Models](#models)
+13. [Database](#database)
+14. [Efficiency Metrics](#efficiency-metrics)
+    - [NER Model](#ner-model-metrics)
+    - [Intent Classifier Model (#intent-classifier-model)
+15. 
 
    
 ## Project Structure
@@ -81,6 +98,9 @@ Following this go to the link
 127.0.0.1:5000
 ```
 
+## StudentDesk User Interface
+![StudentDesk Architecture](https://github.com/amilbek/chatbot/blob/main/diagrams/StudentDesk%20User%20Interface.png)
+
 ## Testing
 **test_requests.txt** contains possible requests to chatbot.
 
@@ -96,9 +116,6 @@ Following this go to the link
 4. Query exam status
 5. Query exam grades
 6. Query student profile
-
-## StudentDesk User Interface
-![StudentDesk Architecture](https://github.com/amilbek/chatbot/blob/main/diagrams/StudentDesk%20User%20Interface.png)
 
 ## StudentDesk Block Diagram
 ![StudentDesk Architecture](https://github.com/amilbek/chatbot/blob/main/diagrams/StudentDesk%20Architecture.png?raw=true)
@@ -148,4 +165,4 @@ To get the completed database, run a cell in **notebooks/database.ipynb**
 | Recall   | 99.50%|
 | F1-Score | 99.50%|
 
-For more details, refer to the **StudentDesk Report**
+📝 **Detailed Documentation:** See the **[StudentDesk Report](#)** for in-depth insights.
