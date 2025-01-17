@@ -166,3 +166,4 @@ To get the completed database, run a cell in [**notebooks/database.ipynb**](http
 | F1-Score | 99.50%|
 
 📝 **Detailed Documentation:** See the **[StudentDesk Report](https://github.com/amilbek/chatbot/blob/main/StudentDesk%20Report.pdf)** for in-depth insights.
+📝 **Video Demonstration:** See the **[StudentDesk Chatbot Demonstration](https://github.com/amilbek/studentdesk-chatbot/blob/main/StudentDesk%20Chatbot%20Demonstration.mov)**.
