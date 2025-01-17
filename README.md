@@ -93,6 +93,9 @@ Following this go to the link
 5. Query exam grades
 6. Query student profile
 
+## StudentDesk Block Diagram
+![StudentDesk Architecture](https://github.com/amilbek/chatbot/blob/main/diagrams/StudentDesk%20Architecture.png?raw=true)
+
 ## Technologies Used
 * **spaCy (de_core_news_lg)**: Named Entity Recognition (NER)
 * **TensorFlow (Bidirectional LSTM)**: Intent classification
