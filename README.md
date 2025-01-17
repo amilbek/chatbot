@@ -102,7 +102,7 @@ Following this go to the link
 ![StudentDesk Architecture](https://github.com/amilbek/chatbot/blob/main/diagrams/StudentDesk%20User%20Interface.png)
 
 ## Testing
-**test_requests.txt** contains possible requests to chatbot.
+[**test_requests.txt**[(#https://github.com/amilbek/chatbot/blob/main/test_requests.txt) contains possible requests to chatbot.
 
 ## Chatbot Functionalities
 * Intent classification using **rule-based** and **machine learning** approaches.
